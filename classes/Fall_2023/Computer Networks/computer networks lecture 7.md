@@ -7,7 +7,7 @@ Related Textbook Chapters:
 ---
 
 
-# Lecture Notes: [Subject Name]
+# Lecture Notes: [[Computer Networks]]
 
 
 ## Objectives
