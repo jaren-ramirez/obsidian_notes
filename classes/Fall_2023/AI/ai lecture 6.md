@@ -14,8 +14,11 @@ Related Textbook Chapters:
 
 ## Key Points
 1. **[[Monte Carlo Tree Search]]**
-   - 
-   - Sub-point
+   -  1. Selection: Starting at the root of the search we choose a move leading to a successor node, and repeat that process moving down the tree to a leaf
+   - 2. Expansion: We grow the search tree by generating a new child of the selected node
+   - 3. [[Simulation]]: We perform a playout from the newly generated child node, choosing moves for both players according to playout policy. These moves are not recorded in the search tree
+	   - A simulation also called a [[playout]] or rollout chooses moves
+   - 4. [[Back-propagation]]: We use the result of the simulation to update all the search tree noes going up to the root
    - Example or additional information
 2. **[Key Point 2]**
    - Sub-point
