@@ -11,12 +11,8 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Central Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Central Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,6 +192,10 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Atomic Notes/Main Searches/AI.md",
+    "Atomic Notes/Main Searches/Computer Science.md",
+    "Atomic Notes/Main Searches/Algorithms.md",
+    "Central Note.md",
     "Atomic Notes/Agent.md",
     "Atomic Notes/Datagrams.md",
     "Atomic Notes/Depth First Search.md",
@@ -211,27 +207,23 @@
     "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures",
     "Class Lectures/Classes Table of Contents.md",
-    "Central Note.md",
     "Projects",
     "Research",
     "data/slides/Presentation-8.pdf",
     "data/slides/lu50114i3etp.tmp",
     "templates/school_notes_template.md",
-    "Atomic Notes/Main Searches/Algorithms.md",
     "Class Lectures/Fall_2023/Software Engineering/Untitled.md",
     "Class Lectures/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "Todo Dataview.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 6.md",
     "templates/atomic_note.md",
-    "Atomic Notes/Main Searches/AI.md",
     "Daily Notes and Tasks/2023-09-25.md",
     "Daily Notes and Tasks/2023-09-24.md",
     "Daily Notes and Tasks/2023-09-26.md",
     "Daily Notes and Tasks/Daily Tracker/Year.md",
     "Dates and Deadlines/Important Dates.md",
     "templates/lecture_template.md",
-    "\"/Daily.md",
     "\"",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
