@@ -3,8 +3,10 @@ title: linker_template
 tags: 
 related:
 ---
+>[!note] Major Topic References
+>
+>  
 # Topic
-
 ## Definition
 
 ## Explanation
