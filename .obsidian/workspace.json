@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c33dd5d25f0c563",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agent.md",
+                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agent.md"
+                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md"
               }
             }
           },
@@ -164,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agent.md",
+                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "e689fb501a8080c2",
@@ -205,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +233,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ed02c04ddb035c50",
+  "active": "8c33dd5d25f0c563",
   "lastOpenFiles": [
-    "templates/Table of contents template for MOC.md",
     "Agent.md",
+    "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
+    "Excalidraw",
+    "templates/Table of contents template for MOC.md",
     "Notes/Datagrams.md",
     "Notes/AI.md",
     "templates/linker_template.md",
@@ -251,7 +263,6 @@
     "classes/Fall_2023/Artificial Intelligence.md",
     "Daily Notes and Tasks/2023-10-15.md",
     "templates/school_notes_template.md",
-    "Notes/Networks.md",
     "Untitled.canvas",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
@@ -260,7 +271,6 @@
     "data/slides/CSCE_A365_6.pptx",
     "Notes/Learning Techniques",
     "classes/Fall_2023/Computer Networks",
-    "Central Note",
-    "Dates and Deadlines"
+    "Central Note"
   ]
 }
