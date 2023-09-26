@@ -174,6 +174,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "ceb058446fca8a05",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -212,7 +220,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f6280379cee18332",
+  "active": "3086d62cb43174b9",
   "lastOpenFiles": [
     "data/slides/A401_601_SWE_Class08.pdf",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
