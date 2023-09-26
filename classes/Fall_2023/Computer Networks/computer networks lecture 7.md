@@ -16,12 +16,18 @@ Related Textbook Chapters:
 - [Main objective 3]
 
 ## Key Points
-1. **[Key Point 1]**
+1. **Principles of reliable data transfer**
    - Sub-point
    - Sub-point
    - Example or additional information
-2. **[Key Point 2]**
-   - Sub-point
+2. **RDT1.0**
+   - Reliable transfer oer a reliable channel
+   - underlying channel perfectly reliable
+	   - no bit errors
+	   - no loss of packers
+   - seperate FSMs for sender, reciever
+	   - Sender sends data into underlying channel
+	   - reciever reads 
    - Sub-point
    - Example or additional information
 3. **[Key Point 3]**
