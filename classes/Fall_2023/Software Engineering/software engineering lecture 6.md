@@ -14,6 +14,7 @@ Related Textbook Chapters:
 - [Main objective 3]
 
 ## Key Points
+### Finding the Scope and Scope Creep
 1. **[[Inception Deck]]**
 2. **Elevator Pitch**
    - For [target customer]
