@@ -15,14 +15,15 @@ Related Textbook Chapters:
 
 ## Key Points
 1. **[[Inception Deck]]**
-   - Sub-point
-   - Sub-point
-   - Example or additional information
-2. **[Key Point 2]**
-   - Sub-point
-   - Sub-point
-   - Example or additional information
-3. **[Key Point 3]**
+2. **Elevator Pitch**
+   - For [target customer]
+   - Who [statement of need or opportunity]
+   - The [project name]
+   - Is a [product category]
+   - That [key benefit, compelling reason to buy]
+   - Unlike [primary competitive alternative]
+   - Our project [statement of primary differentiation]
+1. **[Key Point 3]**
    - Sub-point
    - Sub-point
    - Example or additional information
