@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,22 +199,24 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Projects",
+    "Research",
     "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
-    "Notes/Agent.md",
+    "Atomic Notes/Agent.md",
     "data/slides/Presentation-8.pdf",
     "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
     "data/slides/lu50114i3etp.tmp",
     "templates/school_notes_template.md",
-    "Notes/Main Searches/Algorithms.md",
+    "Atomic Notes/Main Searches/Algorithms.md",
     "classes/Fall_2023/Software Engineering/Untitled.md",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "Todo Dataview.md",
     "classes/Fall_2023/Automata/automata lecture 6.md",
     "templates/atomic_note.md",
-    "Notes/Main Searches/AI.md",
+    "Atomic Notes/Main Searches/AI.md",
     "Daily Notes and Tasks/2023-09-25.md",
     "Daily Notes and Tasks/2023-09-24.md",
     "Daily Notes and Tasks/2023-09-26.md",
@@ -231,13 +232,11 @@
     "Daily Notes and Tasks/Daily Tracker/Month_2023/November.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/October.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/September.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/August.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
     "Untitled.canvas",
     "classes/Fall_2023/Physics 123",
     "classes/Fall_2023/Software Engineering",
-    "Notes/Main Searches",
-    "classes/Fall_2023/AI"
+    "Atomic Notes/Main Searches"
   ]
 }
