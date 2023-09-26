@@ -35,8 +35,12 @@
             "id": "39e3e2cb7401d2b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Agent.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "software",
+                "query": "tag:#ai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Agent.md"
+              }
             }
           },
           {
