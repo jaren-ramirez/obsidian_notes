@@ -1,5 +1,5 @@
 ---
-Date: 
+Date: 2023-09-26T15:11:00
 Time: 
 Lecturer: 
 Topic: 
@@ -33,6 +33,8 @@ Related Textbook Chapters:
 		- [[checksum]] to detect bit errors
 		- the question: how to recover from errors
 			- acknowledgements(ACKs)
+				- can be corrupted 
+					- 
    - Example or additional information
 5. **[Key Point 3]**
    - Sub-point

@@ -11,9 +11,11 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "data/slides/Presentation-8.pdf"
+                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "computer networ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/slides/Presentation-8.pdf",
+                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/slides/Presentation-8.pdf",
+                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/slides/Presentation-8.pdf"
+                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md"
               }
             }
           },
@@ -198,11 +201,12 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+    "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
+    "Notes/Agent.md",
     "data/slides/Presentation-8.pdf",
+    "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
     "data/slides/lu50114i3etp.tmp",
     "templates/school_notes_template.md",
-    "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
     "Notes/Main Searches/Algorithms.md",
     "classes/Fall_2023/Software Engineering/Untitled.md",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
