@@ -54,6 +54,7 @@ Related Textbook Chapters:
   - [Any assignments, readings, or work to be done post-lecture]
 - **Additional Resources:**
   - [Links to additional resources related to the lecture]
+  - [[Presentation-8.pdf]]
 
 ---
 

@@ -11,11 +11,9 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
-                "mode": "source",
-                "source": false
+                "file": "data/slides/Presentation-8.pdf"
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+                "file": "data/slides/Presentation-8.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+                "file": "data/slides/Presentation-8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md"
+                "file": "data/slides/Presentation-8.pdf"
               }
             }
           },
@@ -200,8 +198,10 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "templates/school_notes_template.md",
     "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+    "data/slides/Presentation-8.pdf",
+    "data/slides/lu50114i3etp.tmp",
+    "templates/school_notes_template.md",
     "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
     "Notes/Main Searches/Algorithms.md",
     "classes/Fall_2023/Software Engineering/Untitled.md",
@@ -227,15 +227,12 @@
     "Daily Notes and Tasks/Daily Tracker/Month_2023/October.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/September.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/August.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/July.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
     "Untitled.canvas",
     "classes/Fall_2023/Physics 123",
     "classes/Fall_2023/Software Engineering",
     "Notes/Main Searches",
-    "classes/Fall_2023/AI",
-    "Excalidraw",
-    "classes/Fall_2023/Automata"
+    "classes/Fall_2023/AI"
   ]
 }
