@@ -1,15 +1,14 @@
 ---
-title: linker_template
-tags: 
+title: Agent
+tags:
+  - ai
+  - computer_science
 related:
 ---
->[!note] AI
-> [[Agent]]
-> 
->  
 # Topic
-## Definition
 
+## Definition
+- **An agent is something that acts **
 ## Explanation
 
 ## Applications
@@ -23,7 +22,4 @@ related:
 ## Questions/Thoughts
 
 ## Note-card
-
-#flashcards
-
 

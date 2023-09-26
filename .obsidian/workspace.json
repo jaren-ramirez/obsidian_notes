@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI.md",
+                "file": "Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer",
+                "query": "tag:computer_science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/AI.md",
+                "file": "Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/AI.md"
+                "file": "Agent.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/AI.md",
+                "file": "Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,12 +225,14 @@
   },
   "active": "ed02c04ddb035c50",
   "lastOpenFiles": [
+    "Notes/Datagrams.md",
+    "Agent.md",
+    "Notes/AI.md",
     "templates/linker_template.md",
     "templates/daily_template.md",
     "templates/course_template.md",
     "templates/atomic_note.md",
     "templates/Course Template.md",
-    "Notes/AI.md",
     "Notes/Algorithms.md",
     "Notes/Computer Science.md",
     "classes/Fall_2023/Automata/automata lecture 6.md",
@@ -250,8 +252,6 @@
     "templates/school_notes_template.md",
     "Notes/Networks.md",
     "Central Note.md",
-    "Todo Dataview.md",
-    "Daily Notes and Tasks/2023-09-24.md",
     "Untitled.canvas",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
