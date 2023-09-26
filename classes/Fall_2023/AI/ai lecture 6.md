@@ -14,7 +14,7 @@ Related Textbook Chapters:
 - [Main objective 3]
 
 ## Key Points
-1. **[Key Point 1]**
+1. ****
    - Sub-point
    - Sub-point
    - Example or additional information
