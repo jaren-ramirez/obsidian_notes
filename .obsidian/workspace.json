@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39e3e2cb7401d2b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes and Tasks/Daily Tracker/Year.md",
+                "file": "Daily Notes and Tasks/2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes and Tasks/Daily Tracker/Year.md",
+                "file": "Daily Notes and Tasks/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes and Tasks/Daily Tracker/Year.md",
+                "file": "Daily Notes and Tasks/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes and Tasks/Daily Tracker/Year.md"
+                "file": "Daily Notes and Tasks/2023-09-26.md"
               }
             }
           },
@@ -223,8 +211,17 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "39e3e2cb7401d2b6",
+  "active": "f6280379cee18332",
   "lastOpenFiles": [
+    "Daily Notes and Tasks/Daily Tracker/Year.md",
+    "Dates and Deadlines/Important Dates.md",
+    "templates/lecture_template.md",
+    "Daily Notes and Tasks/2023-09-26.md",
+    "\"/Daily.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/January.md",
+    "README.md",
+    "\"",
+    "\"Daily.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/December.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/November.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/October.md",
@@ -236,10 +233,7 @@
     "Daily Notes and Tasks/Daily Tracker/Month_2023/April.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/March.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/February.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/January.md",
-    "Daily Notes and Tasks/Daily Tracker/Year.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
-    "Daily Notes and Tasks/2023-09-26.md",
     "Daily Notes and Tasks/Daily Tracker",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "Notes/Agent.md",
@@ -248,19 +242,13 @@
     "Notes/Main Searches/Networks.md",
     "Central Note.md",
     "templates/atomic_note.md",
-    "Notes/Monte Carlo Tree Search.md",
-    "classes/Fall_2023/AI/ai lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
-    "classes/Fall_2023/AI/Drawing 2023-09-26 13.39.13.excalidraw.md",
     "Untitled.canvas",
-    "Notes/Simulation.md",
-    "README.md",
     "classes/Fall_2023/Physics 123",
     "classes/Fall_2023/Software Engineering",
     "Notes/Main Searches",
     "classes/Fall_2023/AI",
     "Excalidraw",
-    "classes/Fall_2023/Automata",
-    "home/jarenramirez/Downloads"
+    "classes/Fall_2023/Automata"
   ]
 }
