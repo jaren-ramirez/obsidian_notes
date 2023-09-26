@@ -5,11 +5,11 @@ tags:
   - computer_science
 related:
 ---
-# Topic
+# Agents in the Context of Ai
 
 ## Definition
 - **An agent is something that acts**
-- 
+- **However a rational agent is one that acts to achieve the best outcome**
 ## Explanation
 
 ## Applications
@@ -23,4 +23,15 @@ related:
 ## Questions/Thoughts
 
 ## Note-card
+#flashcards 
+#### What is an agent
+?
+An agent is something that acts
+<!--SR:!2023-09-29,4,270-->
+
+#flashcards 
+#### What is a rational agent
+?
+A ration agent is something that acts to achieve the best outcome
+<!--SR:!2023-09-29,4,270-->
 
