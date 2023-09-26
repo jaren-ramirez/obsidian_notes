@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Main Searches/Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6280379cee18332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md",
+                "file": "classes/Fall_2023/Computer Networks/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ai",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md",
+                "file": "classes/Fall_2023/Computer Networks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md",
+                "file": "classes/Fall_2023/Computer Networks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md"
+                "file": "classes/Fall_2023/Computer Networks/Untitled.md"
               }
             }
           },
@@ -211,12 +198,24 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f6280379cee18332",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
+    "classes/Fall_2023/Computer Networks/Untitled.md",
+    "Notes/Main Searches/Algorithms.md",
+    "classes/Fall_2023/Software Engineering/Untitled.md",
+    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "data/slides/A401_601_SWE_Class08.pdf",
+    "Todo Dataview.md",
+    "classes/Fall_2023/Automata/automata lecture 6.md",
+    "templates/atomic_note.md",
+    "Notes/Main Searches/AI.md",
+    "Daily Notes and Tasks/2023-09-25.md",
+    "Daily Notes and Tasks/2023-09-24.md",
+    "Daily Notes and Tasks/2023-09-26.md",
     "Daily Notes and Tasks/Daily Tracker/Year.md",
     "Dates and Deadlines/Important Dates.md",
     "templates/lecture_template.md",
-    "Daily Notes and Tasks/2023-09-26.md",
     "\"/Daily.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/January.md",
     "README.md",
@@ -229,20 +228,8 @@
     "Daily Notes and Tasks/Daily Tracker/Month_2023/August.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/July.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/June.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/May.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/April.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/March.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/February.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
-    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
-    "Notes/Agent.md",
-    "classes/Fall_2023/AI/Artificial Intelligence.md",
-    "Notes/Tcp.md",
-    "Notes/Main Searches/Networks.md",
-    "Central Note.md",
-    "templates/atomic_note.md",
-    "data/slides/A401_601_SWE_Class08.pdf",
     "Untitled.canvas",
     "classes/Fall_2023/Physics 123",
     "classes/Fall_2023/Software Engineering",
