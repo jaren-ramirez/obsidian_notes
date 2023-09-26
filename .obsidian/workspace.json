@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
+                "file": "computer networks lecture 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
+                "file": "computer networks lecture 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
+                "file": "computer networks lecture 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md"
+                "file": "computer networks lecture 8.md"
               }
             }
           },
@@ -198,14 +198,15 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "Class Lectures/Fall_2023/Computer Networks/Lectures",
+    "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
+    "computer networks lecture 8.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 6.md",
     "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
+    "Class Lectures/Fall_2023/Computer Networks/Lectures",
     "Class Lectures/Classes Table of Contents.md",
     "Central Note.md",
-    "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
     "Projects",
     "Research",
     "Atomic Notes/Agent.md",
@@ -235,7 +236,6 @@
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
     "Untitled.canvas",
-    "Class Lectures/Fall_2023/Physics 123",
-    "Class Lectures/Fall_2023/Software Engineering"
+    "Class Lectures/Fall_2023/Physics 123"
   ]
 }

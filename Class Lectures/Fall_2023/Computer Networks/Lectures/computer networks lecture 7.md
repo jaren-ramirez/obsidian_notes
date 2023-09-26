@@ -67,8 +67,8 @@ Related Textbook Chapters:
 ---
 
 ### Links to Previous/Next Lecture Notes
-- [Link to previous lecture note]
-- [Link to next lecture note]
+- [[computer networks lecture 6]]
+- [[computer networks lecture 8]]
 
 
 
