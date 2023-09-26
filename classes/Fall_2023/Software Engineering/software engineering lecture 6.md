@@ -30,7 +30,8 @@ Related Textbook Chapters:
    - Example or additional information
 4. **Don't Overdue it**
 	- Risks worth tackling 
-	- 
+	- Those that arent
+5. 
 
 
 ## Diagrams/Images

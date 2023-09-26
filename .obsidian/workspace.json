@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,10 +237,12 @@
   },
   "active": "94656fa327e08bcd",
   "lastOpenFiles": [
-    "Notes/Simulation.md",
-    "classes/Fall_2023/AI/ai lecture 6.md",
     "classes/Fall_2023/AI/Artificial Intelligence.md",
+    "classes/Fall_2023/AI/ai lecture 6.md",
+    "classes/Fall_2023/AI/Drawing 2023-09-26 13.39.13.excalidraw.md",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "Untitled.canvas",
+    "Notes/Simulation.md",
     "README.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "Notes/Regular Expression.md",
@@ -269,9 +270,7 @@
     "templates/daily_template.md",
     "templates/course_template.md",
     "templates/Course Template.md",
-    "classes/Fall_2023/Automata/automata lecture 6.md",
     "classes/Fall_2023/Automata",
-    "Untitled.canvas",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
     "home"
