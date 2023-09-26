@@ -9,7 +9,7 @@ Related Textbook Chapters:
 
 # Lecture Notes: [[Computer Networks]]
 
-
+- [ ] transfer over to atomic notes #urgent #transfer 
 ## Objectives
 - [Main objective 1]
 - [Main objective 2]
@@ -34,9 +34,11 @@ Related Textbook Chapters:
 		- the question: how to recover from errors
 			- acknowledgements(ACKs)
 				- can be corrupted 
-					- 
+					- sender doesnt know what happened at reciever
+					- cant just retransmit possible duplicate
+			- NAKS
    - Example or additional information
-5. **[Key Point 3]**
+4. **RDT2.1**
    - Sub-point
    - Sub-point
    - Example or additional information
