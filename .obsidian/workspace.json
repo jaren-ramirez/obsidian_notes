@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agent.md"
+                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md"
               }
             }
           },
@@ -164,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,17 +216,17 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "map-of-content:Update Map of Content": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "map-of-content:Update Map of Content": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7f9966456531aeb4",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Agent.md",
     "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
     "Excalidraw",
     "templates/Table of contents template for MOC.md",
-    "Agent.md",
     "Notes/Datagrams.md",
     "Notes/AI.md",
     "templates/linker_template.md",
