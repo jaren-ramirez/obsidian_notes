@@ -7,7 +7,7 @@ title: automata lecture 6
 Lecturer: Dr. Sebastian Neumayer
 Class Number:
 ---
-[[class_goes_here]]
+[[Automata, Algorithms, and Complexity]]
 ```dataviewjs
 
 ```
