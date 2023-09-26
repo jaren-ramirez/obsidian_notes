@@ -1,12 +1,14 @@
-# Lecture Notes: [Subject Name]
-
+---
+Date: 
+Time: 
+Lecturer: 
+Topic: 
+Related Textbook Chapters:
 ---
 
-- **Date:** [Date]
-- **Time:** [Time]
-- **Lecturer:** [Lecturer Name]
-- **Topic:** [Topic of the Lecture]
-- **Related Textbook Chapters:** [Chapter Name/Number]
+
+# Lecture Notes: [Subject Name]
+
 
 ## Objectives
 - [Main objective 1]
