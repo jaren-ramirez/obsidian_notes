@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer networks lecture 8.md",
+                "file": "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer networks lecture 8.md",
+                "file": "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer networks lecture 8.md",
+                "file": "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer networks lecture 8.md"
+                "file": "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 8.md"
               }
             }
           },
@@ -198,10 +198,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
-    "computer networks lecture 8.md",
+    "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 8.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 6.md",
     "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures",
