@@ -218,9 +218,9 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "map-of-content:Update Map of Content": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "map-of-content:Update Map of Content": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "ed02c04ddb035c50",
