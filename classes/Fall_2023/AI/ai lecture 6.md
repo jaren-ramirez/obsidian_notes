@@ -33,8 +33,9 @@ dv.el("p", 'Created on ' + formattedDate)
 - Mastery of [skill/tool]
 ## Notes
 
-### Evaluation funtion
-$w_{1}f_{1}+ w_{2}f_{2}+w_{3}f_{3}+...+w_{n}f_{n} = \$
+### [[Evaluation functions]] #TODO 
+
+
 
 ## Questions and Clarifications
 
