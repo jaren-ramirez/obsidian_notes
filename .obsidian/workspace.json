@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Agent.md",
+                "file": "Central Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Agent.md",
+                "file": "Central Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Agent.md",
+                "file": "Central Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Agent.md"
+                "file": "Central Note.md"
               }
             }
           },
@@ -200,6 +200,11 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Atomic Notes/Agent.md",
+    "Atomic Notes/Datagrams.md",
+    "Atomic Notes/Depth First Search.md",
+    "Atomic Notes/Evaluation functions.md",
+    "Atomic Notes/Inception Deck.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 8.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 6.md",
@@ -209,7 +214,6 @@
     "Central Note.md",
     "Projects",
     "Research",
-    "Atomic Notes/Agent.md",
     "data/slides/Presentation-8.pdf",
     "data/slides/lu50114i3etp.tmp",
     "templates/school_notes_template.md",
@@ -228,11 +232,7 @@
     "Dates and Deadlines/Important Dates.md",
     "templates/lecture_template.md",
     "\"/Daily.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/January.md",
-    "README.md",
     "\"",
-    "\"Daily.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/December.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
     "Untitled.canvas",
