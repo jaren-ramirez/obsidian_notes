@@ -45,7 +45,8 @@ Related Textbook Chapters:
 5. **RDT2.2**
 	- Sender, reciever fragments
 6. **RDT3.0**
-	- 
+	- channels with errors and loss
+		
 ## Diagrams/Images
 - [Link or embed diagrams/images here]
 
