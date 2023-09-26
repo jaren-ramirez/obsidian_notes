@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+                "file": "templates/atomic_note.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+                "file": "templates/atomic_note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md"
+                "file": "templates/atomic_note.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+                "file": "templates/atomic_note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,13 +225,18 @@
   },
   "active": "ed02c04ddb035c50",
   "lastOpenFiles": [
-    "classes/Fall_2023/AI/ai lecture 6.md",
+    "Notes/Main Searches/AI.md",
+    "classes/Fall_2023/Software Engineering/Software Engineering.md",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "Notes/Main Searches/Computer Science.md",
+    "Notes/Inception Deck.md",
+    "Central Note.md",
+    "classes/Fall_2023/Physics 123",
+    "classes/Fall_2023/AI/ai lecture 6.md",
     "classes/Fall_2023/Software Engineering",
     "Notes/Monte Carlo Tree Search.md",
     "Notes/Main Searches",
     "templates/lecture_template.md",
-    "Notes/Main Searches/AI.md",
     "classes/Fall_2023/AI",
     "Notes/Agent.md",
     "Notes/Evaluation functions.md",
@@ -246,21 +251,16 @@
     "templates/course_template.md",
     "templates/atomic_note.md",
     "templates/Course Template.md",
-    "Notes/Main Searches/Computer Science.md",
     "classes/Fall_2023/Automata/automata lecture 6.md",
     "README.md",
     "classes/Fall_2023/Automata/Automata, Algorithms, and Complexity.md",
     "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
     "Notes/Regular Expression.md",
-    "Notes/Depth First Search.md",
-    "Daily Notes and Tasks/2023-10-28.md",
-    "classes/Fall_2023/Computer Networks/Computer Networks.md",
     "classes/Fall_2023/Automata",
     "Untitled.canvas",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
     "home",
-    "data/slides/CSCE_A365_6 1.pptx",
-    "data/slides/CSCE_A365_6.pptx"
+    "data/slides/CSCE_A365_6 1.pptx"
   ]
 }

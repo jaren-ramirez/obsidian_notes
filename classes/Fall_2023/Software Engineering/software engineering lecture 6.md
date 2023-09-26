@@ -5,16 +5,16 @@ Topic:
 Related Textbook Chapters:
 ---
 
-# Lecture Notes: [Subject Name]
+# Lecture Notes: [[Software Engineering]]
 
-
+- [ ] Transfer over to atomic notes #urgent #transfer
 ## Objectives
 - [Main objective 1]
 - [Main objective 2]
 - [Main objective 3]
 
 ## Key Points
-1. **[Key Point 1]**
+1. **[[Inception Deck]]**
    - Sub-point
    - Sub-point
    - Example or additional information
@@ -46,6 +46,6 @@ Related Textbook Chapters:
 ---
 
 ### Links to Previous/Next Lecture Notes
-- [Link to previous lecture note]
-- [Link to next lecture note]
+- [[software engineering lecture 5]]
+- [[software engineering lecture 7]]
 
