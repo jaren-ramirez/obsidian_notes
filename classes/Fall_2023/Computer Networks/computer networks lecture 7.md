@@ -42,7 +42,10 @@ Related Textbook Chapters:
    - Sub-point
    - Sub-point
    - Example or additional information
-
+5. **RDT2.2**
+	- Sender, reciever fragments
+6. **RDT3.0**
+	- 
 ## Diagrams/Images
 - [Link or embed diagrams/images here]
 
