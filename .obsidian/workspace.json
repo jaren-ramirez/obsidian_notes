@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Regular Expression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed02c04ddb035c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:computer_science",
+                "query": "soft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,12 +212,14 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ed02c04ddb035c50",
+  "active": "f6280379cee18332",
   "lastOpenFiles": [
+    "data/slides/A401_601_SWE_Class08.pdf",
+    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "Notes/Regular Expression.md",
     "classes/Fall_2023/Software Engineering/Software Engineering.md",
     "Notes/Main Searches/AI.md",
     "templates/atomic_note.md",
-    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "Notes/Main Searches/Computer Science.md",
     "Notes/Inception Deck.md",
     "Central Note.md",
@@ -254,13 +245,10 @@
     "classes/Fall_2023/Automata/automata lecture 6.md",
     "README.md",
     "classes/Fall_2023/Automata/Automata, Algorithms, and Complexity.md",
-    "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
-    "Notes/Regular Expression.md",
     "classes/Fall_2023/Automata",
     "Untitled.canvas",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
-    "home",
-    "data/slides/CSCE_A365_6 1.pptx"
+    "home"
   ]
 }

@@ -24,8 +24,9 @@ Related Textbook Chapters:
    - That [key benefit, compelling reason to buy]
    - Unlike [primary competitive alternative]
    - Our project [statement of primary differentiation]
-1. **[Key Point 3]**
-   - Sub-point
+1. **Scope Creep**
+   - The NOT list
+	   - 
    - Sub-point
    - Example or additional information
 
@@ -44,6 +45,7 @@ Related Textbook Chapters:
   - [Any assignments, readings, or work to be done post-lecture]
 - **Additional Resources:**
   - [Links to additional resources related to the lecture]
+  - [[A401_601_SWE_Class08.pdf]]
 
 ---
 
