@@ -11,7 +11,7 @@ related:
 - **An agent is something that acts**
 - **However a rational agent is one that acts to achieve the best outcome**
 ## Explanation
-H
+
 ## Applications
 
 ## Examples
