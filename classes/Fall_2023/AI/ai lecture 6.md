@@ -7,15 +7,14 @@ Related Textbook Chapters:
 ---
 # Lecture Notes: [Subject Name]
 
-
 ## Objectives
 - [Main objective 1]
 - [Main objective 2]
 - [Main objective 3]
 
 ## Key Points
-1. ****
-   - Sub-point
+1. **[[Monte Carlo Tree Search]]**
+   - 
    - Sub-point
    - Example or additional information
 2. **[Key Point 2]**

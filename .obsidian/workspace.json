@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms.md",
+                "file": "Notes/Main Searches/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fall_2023/AI/ai lecture 6.md",
+                "file": "Notes/Monte Carlo Tree Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/Fall_2023/AI/ai lecture 6.md",
+                "file": "Notes/Monte Carlo Tree Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "classes/Fall_2023/AI/ai lecture 6.md"
+                "file": "Notes/Monte Carlo Tree Search.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/Fall_2023/AI/ai lecture 6.md",
+                "file": "Notes/Monte Carlo Tree Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,16 +223,17 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ed02c04ddb035c50",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Notes/Main Searches",
+    "classes/Fall_2023/AI/ai lecture 6.md",
+    "Notes/Monte Carlo Tree Search.md",
     "templates/lecture_template.md",
-    "classes/Fall_2023/AI/ai lecture 6.md",
-    "classes/Fall_2023/AI/ai lecture 6.md",
-    "Notes/AI.md",
+    "Notes/Main Searches/AI.md",
     "classes/Fall_2023/AI",
     "Notes/Agent.md",
     "Notes/Evaluation functions.md",
-    "Notes/Algorithms.md",
+    "Notes/Main Searches/Algorithms.md",
     "Excalidraw/Drawing 2023-09-25 23.31.00.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
@@ -243,7 +244,7 @@
     "templates/course_template.md",
     "templates/atomic_note.md",
     "templates/Course Template.md",
-    "Notes/Computer Science.md",
+    "Notes/Main Searches/Computer Science.md",
     "classes/Fall_2023/Automata/automata lecture 6.md",
     "README.md",
     "classes/Fall_2023/Automata/Automata, Algorithms, and Complexity.md",
@@ -253,7 +254,6 @@
     "Daily Notes and Tasks/2023-10-28.md",
     "classes/Fall_2023/Computer Networks/Computer Networks.md",
     "classes/Fall_2023/Automata",
-    "classes/Fall_2023/Software Engineering.md",
     "Untitled.canvas",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
