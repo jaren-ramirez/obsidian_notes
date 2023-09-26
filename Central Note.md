@@ -1,4 +1,5 @@
 > [!note] # Table of Contents
->> [[Computer Science]]
+> [[Classes Table of Contents]]
+>[[Computer Science]]
 
  

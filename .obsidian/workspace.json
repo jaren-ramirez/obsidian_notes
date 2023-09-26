@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Lectures/Classes.md",
+                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Lectures/Classes.md",
+                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Lectures/Classes.md",
+                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Lectures/Classes.md"
+                "file": "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md"
               }
             }
           },
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +200,9 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Class Lectures/Classes Table of Contents.md",
+    "Central Note.md",
     "Class Lectures/Fall_2023/Computer Networks/computer networks lecture 7.md",
-    "Class Lectures/Classes.md",
     "Projects",
     "Research",
     "Class Lectures/Fall_2023/Computer Networks/computer networks lecture 6.md",
@@ -232,7 +232,6 @@
     "Daily Notes and Tasks/Daily Tracker/Month_2023/December.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/November.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023/October.md",
-    "Daily Notes and Tasks/Daily Tracker/Month_2023/September.md",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
     "Untitled.canvas",
