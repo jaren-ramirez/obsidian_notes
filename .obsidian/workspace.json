@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+                "file": "Class Lectures/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+                "file": "Class Lectures/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
+                "file": "Class Lectures/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "classes/Fall_2023/Computer Networks/computer networks lecture 7.md"
+                "file": "Class Lectures/Classes.md"
               }
             }
           },
@@ -199,22 +199,23 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Class Lectures/Fall_2023/Computer Networks/computer networks lecture 7.md",
+    "Class Lectures/Classes.md",
     "Projects",
     "Research",
-    "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
+    "Class Lectures/Fall_2023/Computer Networks/computer networks lecture 6.md",
     "Atomic Notes/Agent.md",
     "data/slides/Presentation-8.pdf",
-    "classes/Fall_2023/Computer Networks/computer networks lecture 7.md",
     "data/slides/lu50114i3etp.tmp",
     "templates/school_notes_template.md",
     "Atomic Notes/Main Searches/Algorithms.md",
-    "classes/Fall_2023/Software Engineering/Untitled.md",
-    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "Class Lectures/Fall_2023/Software Engineering/Untitled.md",
+    "Class Lectures/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "Todo Dataview.md",
-    "classes/Fall_2023/Automata/automata lecture 6.md",
+    "Class Lectures/Fall_2023/Automata/automata lecture 6.md",
     "templates/atomic_note.md",
     "Atomic Notes/Main Searches/AI.md",
     "Daily Notes and Tasks/2023-09-25.md",
@@ -235,8 +236,7 @@
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
     "Untitled.canvas",
-    "classes/Fall_2023/Physics 123",
-    "classes/Fall_2023/Software Engineering",
-    "Atomic Notes/Main Searches"
+    "Class Lectures/Fall_2023/Physics 123",
+    "Class Lectures/Fall_2023/Software Engineering"
   ]
 }
