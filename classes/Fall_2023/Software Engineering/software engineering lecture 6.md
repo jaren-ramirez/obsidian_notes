@@ -9,7 +9,7 @@ Related Textbook Chapters:
 
 - [ ] Transfer over to atomic notes #urgent #transfer
 ## Objectives
-- [Main objective 1]
+- Goals of Software Testing
 - [Main objective 2]
 - [Main objective 3]
 
@@ -31,7 +31,11 @@ Related Textbook Chapters:
 4. **Don't Overdue it**
 	- Risks worth tackling 
 	- Those that arent
-5. 
+5. **Goals of software Testing
+	- Show the developer and the customer that software meets its requirements = validation testing
+		- Are we building the right product?
+	- Find inputs that result in incorrect or undesireable behavior = defect testing
+		- Are we building the product right?
 
 
 ## Diagrams/Images

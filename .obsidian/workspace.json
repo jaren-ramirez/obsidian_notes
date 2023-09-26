@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Agent.md",
+                "file": "Daily Notes and Tasks/2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Agent.md",
+                "file": "Daily Notes and Tasks/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Agent.md",
+                "file": "Daily Notes and Tasks/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Agent.md"
+                "file": "Daily Notes and Tasks/2023-09-26.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "e689fb501a8080c2",
@@ -226,6 +226,9 @@
   },
   "active": "39e3e2cb7401d2b6",
   "lastOpenFiles": [
+    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "Daily Notes and Tasks/2023-09-26.md",
+    "Notes/Agent.md",
     "classes/Fall_2023/AI/Artificial Intelligence.md",
     "Notes/Tcp.md",
     "Notes/Main Searches/Networks.md",
@@ -233,7 +236,6 @@
     "templates/atomic_note.md",
     "Notes/Monte Carlo Tree Search.md",
     "classes/Fall_2023/AI/ai lecture 6.md",
-    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "classes/Fall_2023/AI/Drawing 2023-09-26 13.39.13.excalidraw.md",
     "Untitled.canvas",
@@ -249,7 +251,6 @@
     "Notes/Main Searches",
     "templates/lecture_template.md",
     "classes/Fall_2023/AI",
-    "Notes/Agent.md",
     "Notes/Evaluation functions.md",
     "Notes/Main Searches/Algorithms.md",
     "Excalidraw/Drawing 2023-09-25 23.31.00.excalidraw.md",
@@ -258,7 +259,6 @@
     "templates/Table of contents template for MOC.md",
     "Notes/Datagrams.md",
     "templates/linker_template.md",
-    "templates/daily_template.md",
     "classes/Fall_2023/Automata",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
