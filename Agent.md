@@ -8,7 +8,8 @@ related:
 # Topic
 
 ## Definition
-- **An agent is something that acts **
+- **An agent is something that acts**
+- 
 ## Explanation
 
 ## Applications

@@ -218,15 +218,16 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "map-of-content:Update Map of Content": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "ed02c04ddb035c50",
   "lastOpenFiles": [
-    "Notes/Datagrams.md",
+    "templates/Table of contents template for MOC.md",
     "Agent.md",
+    "Notes/Datagrams.md",
     "Notes/AI.md",
     "templates/linker_template.md",
     "templates/daily_template.md",
@@ -251,7 +252,6 @@
     "Daily Notes and Tasks/2023-10-15.md",
     "templates/school_notes_template.md",
     "Notes/Networks.md",
-    "Central Note.md",
     "Untitled.canvas",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
