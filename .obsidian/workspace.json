@@ -25,14 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "39e3e2cb7401d2b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Fall_2023/AI/ai lecture 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94656fa327e08bcd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,12 +100,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 209.5
   },
   "right": {
     "id": "e0f089a103f70761",
@@ -93,23 +114,6 @@
         "id": "3433934356088844",
         "type": "tabs",
         "children": [
-          {
-            "id": "350e20c42c5fe2e4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "b824c1c3d78f705f",
             "type": "leaf",
@@ -122,17 +126,7 @@
             }
           },
           {
-            "id": "47d88479fd4789ed",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md"
-              }
-            }
-          },
-          {
-            "id": "9d0e702f7e334a6f",
+            "id": "24fffa4009b5521c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -140,35 +134,46 @@
             }
           },
           {
-            "id": "95a16ae4396c1aec",
+            "id": "00c8f99952d7f087",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Main Searches/Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "a9a5b906e0c69a1f",
+            "id": "4650ea2918187495",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+                "file": "Notes/Main Searches/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7f9966456531aeb4",
+            "id": "75080569a3d9b0a7",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Notes/Main Searches/Algorithms.md"
+              }
             }
           },
           {
-            "id": "19bd18d874852f66",
+            "id": "03ed33e84ab07310",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -176,15 +181,23 @@
             }
           },
           {
-            "id": "ceb058446fca8a05",
+            "id": "846859b0c9731b70",
             "type": "leaf",
             "state": {
               "type": "ReferenceListView",
               "state": {}
             }
+          },
+          {
+            "id": "93cb4fa64c6975cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "e689fb501a8080c2",
@@ -220,10 +233,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3086d62cb43174b9",
+  "active": "94656fa327e08bcd",
   "lastOpenFiles": [
-    "data/slides/A401_601_SWE_Class08.pdf",
+    "README.md",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "data/slides/A401_601_SWE_Class08.pdf",
     "Notes/Regular Expression.md",
     "classes/Fall_2023/Software Engineering/Software Engineering.md",
     "Notes/Main Searches/AI.md",
@@ -251,7 +265,6 @@
     "templates/course_template.md",
     "templates/Course Template.md",
     "classes/Fall_2023/Automata/automata lecture 6.md",
-    "README.md",
     "classes/Fall_2023/Automata/Automata, Algorithms, and Complexity.md",
     "classes/Fall_2023/Automata",
     "Untitled.canvas",
