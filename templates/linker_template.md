@@ -1,5 +1,5 @@
 ---
-title: AI
+title: linker_template
 tags: 
 related:
 ---

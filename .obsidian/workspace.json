@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fall_2023/Automata/automata lecture 6.md",
+                "file": "templates/linker_template.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "classes/Fall_2023/Automata/automata lecture 6.md",
+                "file": "templates/linker_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "classes/Fall_2023/Automata/automata lecture 6.md"
+                "file": "templates/linker_template.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "classes/Fall_2023/Automata/automata lecture 6.md",
+                "file": "templates/linker_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "e689fb501a8080c2",
@@ -216,14 +216,16 @@
   },
   "active": "ed02c04ddb035c50",
   "lastOpenFiles": [
+    "Notes/AI.md",
+    "templates/linker_template.md",
+    "Notes/Algorithms.md",
+    "Notes/Computer Science.md",
+    "classes/Fall_2023/Automata/automata lecture 6.md",
     "README.md",
     "classes/Fall_2023/Automata/Automata, Algorithms, and Complexity.md",
     "classes/Fall_2023/Computer Networks/computer networks lecture 6.md",
     "Notes/Regular Expression.md",
-    "Notes/Algorithms.md",
-    "Notes/Computer Science.md",
     "Notes/Depth First Search.md",
-    "classes/Fall_2023/Automata/automata lecture 6.md",
     "Daily Notes and Tasks/2023-10-28.md",
     "classes/Fall_2023/Computer Networks/Computer Networks.md",
     "classes/Fall_2023/Automata",
@@ -242,8 +244,6 @@
     "Notes/Socket.md",
     "Notes/Tcp.md",
     "Notes/Udp.md",
-    "Datagrams.md",
-    "home/jarenramirez/Downloads/CSCE_A365_6.pptx.md",
     "home/jarenramirez/Downloads",
     "home/jarenramirez",
     "home",
