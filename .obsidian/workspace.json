@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/linker_template.md",
+                "file": "Notes/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/linker_template.md",
+                "file": "Notes/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/linker_template.md"
+                "file": "Notes/AI.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/linker_template.md",
+                "file": "Notes/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +177,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "19bd18d874852f66",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "e689fb501a8080c2",
@@ -211,16 +219,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "map-of-content:Update Map of Content": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "ed02c04ddb035c50",
   "lastOpenFiles": [
+    "templates/linker_template.md",
     "templates/daily_template.md",
     "templates/course_template.md",
     "templates/atomic_note.md",
     "templates/Course Template.md",
-    "templates/linker_template.md",
     "Notes/AI.md",
     "Notes/Algorithms.md",
     "Notes/Computer Science.md",

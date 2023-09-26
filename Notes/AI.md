@@ -1,10 +1,12 @@
 ---
-title: AI
+title: linker_template
 tags: 
 related:
 ---
+>[!note] Major Topic References
+>
+>  
 # Topic
-
 ## Definition
 
 ## Explanation
@@ -20,4 +22,7 @@ related:
 ## Questions/Thoughts
 
 ## Note-card
+
+#flashcards
+
 
