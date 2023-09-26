@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c33dd5d25f0c563",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
+                "file": "Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md"
+                "file": "Agent.md"
               }
             }
           },
@@ -174,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
+                "file": "Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,17 +218,17 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "map-of-content:Update Map of Content": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "8c33dd5d25f0c563",
+  "active": "7f9966456531aeb4",
   "lastOpenFiles": [
-    "Agent.md",
     "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
     "Excalidraw",
     "templates/Table of contents template for MOC.md",
+    "Agent.md",
     "Notes/Datagrams.md",
     "Notes/AI.md",
     "templates/linker_template.md",
