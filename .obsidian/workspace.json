@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soft",
+                "query": "software",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +102,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "e0f089a103f70761",
@@ -218,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,9 +238,11 @@
   },
   "active": "94656fa327e08bcd",
   "lastOpenFiles": [
+    "Notes/Simulation.md",
     "classes/Fall_2023/AI/ai lecture 6.md",
-    "README.md",
+    "classes/Fall_2023/AI/Artificial Intelligence.md",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "README.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "Notes/Regular Expression.md",
     "classes/Fall_2023/Software Engineering/Software Engineering.md",
@@ -269,7 +270,6 @@
     "templates/course_template.md",
     "templates/Course Template.md",
     "classes/Fall_2023/Automata/automata lecture 6.md",
-    "classes/Fall_2023/Automata/Automata, Algorithms, and Complexity.md",
     "classes/Fall_2023/Automata",
     "Untitled.canvas",
     "home/jarenramirez/Downloads",

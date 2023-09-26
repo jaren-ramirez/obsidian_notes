@@ -7,6 +7,7 @@ Related Textbook Chapters:
 ---
 # Lecture Notes: [Subject Name]
 
+- [ ] Transfer over #urgent #transfer 
 ## Objectives
 - [Main objective 1]
 - [Main objective 2]

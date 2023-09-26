@@ -24,11 +24,14 @@ Related Textbook Chapters:
    - That [key benefit, compelling reason to buy]
    - Unlike [primary competitive alternative]
    - Our project [statement of primary differentiation]
-1. **Scope Creep**
+3. **Scope Creep**
    - The NOT list
-	   - 
    - Sub-point
    - Example or additional information
+4. **Don't Overdue it**
+	- Risks worth tackling 
+	- 
+
 
 ## Diagrams/Images
 - [Link or embed diagrams/images here]
