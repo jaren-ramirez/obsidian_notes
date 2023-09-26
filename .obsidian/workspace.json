@@ -47,9 +47,11 @@
             "id": "94656fa327e08bcd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 209.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0f089a103f70761",
@@ -139,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Main Searches/Algorithms.md",
+                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Main Searches/Algorithms.md",
+                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Main Searches/Algorithms.md"
+                "file": "classes/Fall_2023/Software Engineering/software engineering lecture 6.md"
               }
             }
           },
@@ -215,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,6 +239,7 @@
   },
   "active": "94656fa327e08bcd",
   "lastOpenFiles": [
+    "classes/Fall_2023/AI/ai lecture 6.md",
     "README.md",
     "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
@@ -246,7 +251,6 @@
     "Notes/Inception Deck.md",
     "Central Note.md",
     "classes/Fall_2023/Physics 123",
-    "classes/Fall_2023/AI/ai lecture 6.md",
     "classes/Fall_2023/Software Engineering",
     "Notes/Monte Carlo Tree Search.md",
     "Notes/Main Searches",

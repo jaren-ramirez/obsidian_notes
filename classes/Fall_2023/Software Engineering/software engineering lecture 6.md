@@ -44,7 +44,6 @@ Related Textbook Chapters:
 - **Action Items:** 
   - [Any assignments, readings, or work to be done post-lecture]
 - **Additional Resources:**
-  - [Links to additional resources related to the lecture]
   - [[A401_601_SWE_Class08.pdf]]
 
 ---
