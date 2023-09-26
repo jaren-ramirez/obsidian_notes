@@ -27,10 +27,14 @@ Related Textbook Chapters:
 	   - no loss of packers
    - seperate FSMs for sender, reciever
 	   - Sender sends data into underlying channel
-	   - reciever reads 
-   - Sub-point
+	   - reciever reads data from underling channel
+3. **RDT2.0**
+	- underlying channel may flib bits in packet
+		- [[checksum]] to detect bit errors
+		- the question: how to recover from errors
+			- acknowledgements(ACKs)
    - Example or additional information
-3. **[Key Point 3]**
+5. **[Key Point 3]**
    - Sub-point
    - Sub-point
    - Example or additional information
