@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 23.31.00.excalidraw.md"
+                "file": "Agent.md"
               }
             }
           },
@@ -163,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +223,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "ed02c04ddb035c50",
   "lastOpenFiles": [
-    "Agent.md",
+    "Notes/Algorithms.md",
     "Excalidraw/Drawing 2023-09-25 23.31.00.excalidraw.md",
+    "Agent.md",
     "Excalidraw",
     "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
     "templates/Table of contents template for MOC.md",
@@ -235,7 +238,6 @@
     "templates/course_template.md",
     "templates/atomic_note.md",
     "templates/Course Template.md",
-    "Notes/Algorithms.md",
     "Notes/Computer Science.md",
     "classes/Fall_2023/Automata/automata lecture 6.md",
     "README.md",

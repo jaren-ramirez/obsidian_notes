@@ -8,7 +8,7 @@ related:
 # Agents in the Context of Ai
 
 ## Definition
-- **An agent is something that acts**
+- **An agent is something that acts**d
 - **However a rational agent is one that acts to achieve the best outcome**
 ## Explanation
 
