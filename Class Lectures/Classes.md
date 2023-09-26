@@ -1,1 +1,5 @@
->[!notes] # Fall 2023
+>[!seealso]  Fall 2023
+> [[Artificial Intelligence]]
+> [[Computer Networks]]
+> [[]]
+
