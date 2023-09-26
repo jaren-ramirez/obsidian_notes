@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md",
+                "file": "Daily Notes and Tasks/Daily Tracker/Year.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md",
+                "file": "Daily Notes and Tasks/Daily Tracker/Year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md",
+                "file": "Daily Notes and Tasks/Daily Tracker/Year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes and Tasks/2023-09-26.md"
+                "file": "Daily Notes and Tasks/Daily Tracker/Year.md"
               }
             }
           },
@@ -226,8 +225,23 @@
   },
   "active": "39e3e2cb7401d2b6",
   "lastOpenFiles": [
-    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/December.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/November.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/October.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/September.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/August.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/July.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/June.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/May.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/April.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/March.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/February.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023/January.md",
+    "Daily Notes and Tasks/Daily Tracker/Year.md",
+    "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/2023-09-26.md",
+    "Daily Notes and Tasks/Daily Tracker",
+    "classes/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "Notes/Agent.md",
     "classes/Fall_2023/AI/Artificial Intelligence.md",
     "Notes/Tcp.md",
@@ -241,27 +255,12 @@
     "Untitled.canvas",
     "Notes/Simulation.md",
     "README.md",
-    "Notes/Regular Expression.md",
-    "classes/Fall_2023/Software Engineering/Software Engineering.md",
-    "Notes/Main Searches/AI.md",
-    "Notes/Main Searches/Computer Science.md",
-    "Notes/Inception Deck.md",
     "classes/Fall_2023/Physics 123",
     "classes/Fall_2023/Software Engineering",
     "Notes/Main Searches",
-    "templates/lecture_template.md",
     "classes/Fall_2023/AI",
-    "Notes/Evaluation functions.md",
-    "Notes/Main Searches/Algorithms.md",
-    "Excalidraw/Drawing 2023-09-25 23.31.00.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2023-09-25 22.13.20.excalidraw.md",
-    "templates/Table of contents template for MOC.md",
-    "Notes/Datagrams.md",
-    "templates/linker_template.md",
     "classes/Fall_2023/Automata",
-    "home/jarenramirez/Downloads",
-    "home/jarenramirez",
-    "home"
+    "home/jarenramirez/Downloads"
   ]
 }
