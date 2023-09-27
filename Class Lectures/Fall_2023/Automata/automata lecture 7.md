@@ -7,7 +7,7 @@ Related Textbook Chapters:
 ---
 
 
-# Lecture Notes: []
+# Lecture Notes: [[Automata, Algorithms, and Complexity]]
 
 
 ## Objectives
@@ -48,6 +48,7 @@ Related Textbook Chapters:
 ---
 
 ### Links to Previous/Next Lecture Notes
-- [Link to previous lecture note]
-- [Link to next lecture note]
+- [[automata lecture 6]]
+- [[automata lecture 8]]
+- 
 
