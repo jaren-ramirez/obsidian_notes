@@ -25,7 +25,10 @@ Related Textbook Chapters:
 			   - $xy^{i}z \in L\:\;\; for\: all\: i \:\geq 0$
 	   - Use pumping Lemma to show that this is not regular
 		   - $L= \{0^{n}1^{n}\: | \: n \geq 0\}$
-			   - Intuitively if you cant buil
+			   - Intuitively if you cant build a dfa for it
+		   - Assume that L is regular
+			   - let p be the pumping length
+			   - choose $s = 0^{p}1^{p}$
    - Example or additional information
 2. **[Key Point 2]**
    - Sub-point
