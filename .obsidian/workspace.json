@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookNotes/Untitled.md",
+                "file": "Atomic Notes/Main Searches/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookNotes/Untitled.md",
+                "file": "Atomic Notes/Main Searches/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookNotes/Untitled.md",
+                "file": "Atomic Notes/Main Searches/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookNotes/Untitled.md"
+                "file": "Atomic Notes/Main Searches/AI.md"
               }
             }
           },
@@ -200,8 +200,11 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "Central Note.md",
+    "Atomic Notes/Main Searches/Algorithms.md",
+    "Atomic Notes/Main Searches/AI.md",
+    "Atomic Notes/Main Searches/Physics.md",
     "BookNotes/Untitled.md",
+    "Central Note.md",
     "Atomic Notes/Socket.md",
     "Class Lectures/Classes Table of Contents.md",
     "Class Lectures/Fall_2023/AI/Artificial Intelligence.md",
@@ -214,9 +217,7 @@
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
     "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
     "Atomic Notes/Regular Expression.md",
-    "Atomic Notes/Main Searches/AI.md",
     "Atomic Notes/Main Searches/Computer Science.md",
-    "Atomic Notes/Main Searches/Algorithms.md",
     "Atomic Notes/Datagrams.md",
     "Atomic Notes/Depth First Search.md",
     "Atomic Notes/Evaluation functions.md",
@@ -230,7 +231,6 @@
     "data/slides/lu50114i3etp.tmp",
     "templates/school_notes_template.md",
     "Class Lectures/Fall_2023/Software Engineering/Untitled.md",
-    "Class Lectures/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "\"",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
