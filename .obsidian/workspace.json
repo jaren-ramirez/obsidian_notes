@@ -11,8 +11,12 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Agent.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer networ",
+                "query": "tags urgent ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atomic Notes/Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atomic Notes/Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atomic Notes/Agent.md"
+              }
             }
           },
           {
@@ -190,23 +199,26 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "3086d62cb43174b9",
   "lastOpenFiles": [
+    "Daily Notes and Tasks/2023-09-24.md",
+    "Atomic Notes/Udp.md",
+    "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
+    "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
+    "Class Lectures/Classes Table of Contents.md",
+    "Central Note.md",
+    "Atomic Notes/Regular Expression.md",
     "Atomic Notes/Main Searches/AI.md",
     "Atomic Notes/Main Searches/Computer Science.md",
     "Atomic Notes/Main Searches/Algorithms.md",
-    "Central Note.md",
     "Atomic Notes/Agent.md",
     "Atomic Notes/Datagrams.md",
     "Atomic Notes/Depth First Search.md",
     "Atomic Notes/Evaluation functions.md",
     "Atomic Notes/Inception Deck.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 8.md",
-    "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 6.md",
-    "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures",
-    "Class Lectures/Classes Table of Contents.md",
     "Projects",
     "Research",
     "data/slides/Presentation-8.pdf",
@@ -219,11 +231,8 @@
     "Class Lectures/Fall_2023/Automata/automata lecture 6.md",
     "templates/atomic_note.md",
     "Daily Notes and Tasks/2023-09-25.md",
-    "Daily Notes and Tasks/2023-09-24.md",
     "Daily Notes and Tasks/2023-09-26.md",
     "Daily Notes and Tasks/Daily Tracker/Year.md",
-    "Dates and Deadlines/Important Dates.md",
-    "templates/lecture_template.md",
     "\"",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
