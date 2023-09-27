@@ -5,9 +5,9 @@ Lecturer:
 Topic: 
 Related Textbook Chapters:
 ---
-# Lecture Notes: [Subject Name]
+# Lecture Notes: [[Artificial Intelligence]]
 
-- [ ] Transfer over #urgent #transfer 
+- [ ] Transfer over #urgent #transfer
 ## Objectives
 - [Main objective 1]
 - [Main objective 2]
