@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Main Searches/Computer Science.md",
+                "file": "Central Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Main Searches/Computer Science.md",
+                "file": "Central Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Main Searches/Computer Science.md",
+                "file": "Central Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Main Searches/Computer Science.md"
+                "file": "Central Note.md"
               }
             }
           },
@@ -200,8 +200,8 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "\"/Daily.md",
     "Atomic Notes/Main Searches/Computer Science.md",
+    "\"/Daily.md",
     "Atomic Notes/Main Searches/Algorithms Topics and Terms.md",
     "Atomic Notes/Main Searches/AI Topics and Terms.md",
     "Atomic Notes/Main Searches/Networks Topics and Terms.md",
