@@ -20,9 +20,9 @@ Related Textbook Chapters:
    - Let L be a regular language
 	   - There is an integer p(the pumping length) such taht the following holds:
 		   - every string s in L with |s| >= p can be written as s = xyz such that'
-			   - $y != \epsilon  (i.e |y| \geq 1)$
-			   - |xy| <= p
-			   - xy^iz in all L for all i >= 0
+			   - $y \neq \epsilon \;\; (i.e |y| \geq 1)$
+			   - $|xy| \neq p$
+			   - $xy^{i}z \in L\: for\: all\: i \:\geq 0$
    - Example or additional information
 2. **[Key Point 2]**
    - Sub-point
