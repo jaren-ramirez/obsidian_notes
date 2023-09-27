@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Main Searches/Networks Topics and Terms.md",
+                "file": "Atomic Notes/Main Searches/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Main Searches/Networks Topics and Terms.md",
+                "file": "Atomic Notes/Main Searches/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Main Searches/Networks Topics and Terms.md",
+                "file": "Atomic Notes/Main Searches/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Main Searches/Networks Topics and Terms.md"
+                "file": "Atomic Notes/Main Searches/Computer Science.md"
               }
             }
           },
@@ -200,9 +200,10 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "\"/Daily.md",
+    "Atomic Notes/Main Searches/Computer Science.md",
     "Atomic Notes/Main Searches/Algorithms Topics and Terms.md",
     "Atomic Notes/Main Searches/AI Topics and Terms.md",
-    "Atomic Notes/Main Searches/Computer Science.md",
     "Atomic Notes/Main Searches/Networks Topics and Terms.md",
     "Atomic Notes/Main Searches/Physics Topics and Terms.md",
     "BookNotes/Untitled.md",
@@ -230,7 +231,6 @@
     "Research",
     "data/slides/Presentation-8.pdf",
     "data/slides/lu50114i3etp.tmp",
-    "templates/school_notes_template.md",
     "data/slides/A401_601_SWE_Class08.pdf",
     "\"",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
