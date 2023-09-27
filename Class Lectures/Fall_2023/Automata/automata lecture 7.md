@@ -16,8 +16,8 @@ Related Textbook Chapters:
 - [Main objective 3]
 
 ## Key Points
-1. **[Key Point 1]**
-   - Sub-point
+1. **[[Puming Lemma]]**
+   - Let L be a regular langua
    - Sub-point
    - Example or additional information
 2. **[Key Point 2]**
