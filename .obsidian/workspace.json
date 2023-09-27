@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Note.md",
+                "file": "BookNotes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Note.md",
+                "file": "BookNotes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Note.md",
+                "file": "BookNotes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Note.md"
+                "file": "BookNotes/Untitled.md"
               }
             }
           },
@@ -200,8 +200,9 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "Atomic Notes/Socket.md",
     "Central Note.md",
+    "BookNotes/Untitled.md",
+    "Atomic Notes/Socket.md",
     "Class Lectures/Classes Table of Contents.md",
     "Class Lectures/Fall_2023/AI/Artificial Intelligence.md",
     "Class Lectures/Fall_2023/AI/ai lecture 6.md",
@@ -231,7 +232,6 @@
     "Class Lectures/Fall_2023/Software Engineering/Untitled.md",
     "Class Lectures/Fall_2023/Software Engineering/software engineering lecture 6.md",
     "data/slides/A401_601_SWE_Class08.pdf",
-    "Todo Dataview.md",
     "\"",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
