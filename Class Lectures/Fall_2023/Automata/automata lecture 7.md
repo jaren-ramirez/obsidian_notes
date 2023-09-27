@@ -35,7 +35,7 @@ Related Textbook Chapters:
 			   - s is clearly in L and $|s|\geq p$
 			   - split the string into an x, y, and z subject to the pumping lemma constraints
 			   - Split into $x=\epsilon$, $y=01$, and $z=(01)^{p-1}$
-			   - no matter the choice for i, each resul
+			   - no matter the choice for i, each resulting string is in the language so s can be pumped
    - Example or additional information
 2. **[Key Point 2]**
    - Sub-point
