@@ -17,8 +17,12 @@ Related Textbook Chapters:
 
 ## Key Points
 1. **[[Puming Lemma]]**
-   - Let L be a regular langua
-   - Sub-point
+   - Let L be a regular language
+	   - There is an integer p(the pumping length) such taht the following holds:
+		   - every string s in L with |s| >= p can be written as s = xyz such that'
+			   - y != e i.e |y| >= 1
+			   - |xy| <= p
+			   - xy^iz in all L for all i >= 0
    - Example or additional information
 2. **[Key Point 2]**
    - Sub-point
