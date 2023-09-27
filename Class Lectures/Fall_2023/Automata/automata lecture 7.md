@@ -22,7 +22,7 @@ Related Textbook Chapters:
 		   - every string s in L with |s| >= p can be written as s = xyz such that'
 			   - $y \neq \epsilon \;\; (i.e |y| \geq 1)$
 			   - $|xy| \neq p$
-			   - $xy^{i}z \in L\: for\: all\: i \:\geq 0$
+			   - $xy^{i}z \in L\:\;\; for\: all\: i \:\geq 0$
    - Example or additional information
 2. **[Key Point 2]**
    - Sub-point
