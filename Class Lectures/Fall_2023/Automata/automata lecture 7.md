@@ -16,7 +16,7 @@ Related Textbook Chapters:
 - [Main objective 3]
 
 ## Key Points
-1. **[[Puming Lemma]]**
+1. **[[Pumping Lemma]]**
    - Let L be a regular language
 	   - There is an integer p(the pumping length) such taht the following holds:
 		   - every string s in L with |s| >= p can be written as s = xyz such that'
