@@ -11,22 +11,15 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "505f9cfc2cf63dca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "BookNotes/Physics/College Physics 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BookNotes/Physics/College Physics 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BookNotes/Physics/College Physics 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BookNotes/Physics/College Physics 1.md"
+              }
             }
           },
           {
@@ -201,8 +198,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "505f9cfc2cf63dca",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "BookNotes/Physics/College Physics 1.md",
+    "BookNotes/Physics",
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
@@ -228,7 +227,6 @@
     "Atomic Notes/Datagrams.md",
     "Atomic Notes/Depth First Search.md",
     "Atomic Notes/Evaluation functions.md",
-    "Atomic Notes/Inception Deck.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures",
     "Projects",
     "Research",
@@ -238,7 +236,6 @@
     "\"",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
     "Daily Notes and Tasks/Daily Tracker",
-    "Untitled.canvas",
-    "Class Lectures/Fall_2023/Physics 123"
+    "Untitled.canvas"
   ]
 }

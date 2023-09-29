@@ -2,7 +2,7 @@
 > [[Artificial Intelligence]]
 > [[Computer Networks]]
 > [[Automata, Algorithms, and Complexity]]
-> [[College Physics 1]]
+> [[Class Lectures/Fall_2023/Physics 123/College Physics 1]]
 > [[Software Engineering]]
 > 
 
