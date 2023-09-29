@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookNotes/Physics/College Physics 1.md",
+                "file": "Projects/Quayside/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookNotes/Physics/College Physics 1.md",
+                "file": "Projects/Quayside/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookNotes/Physics/College Physics 1.md",
+                "file": "Projects/Quayside/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookNotes/Physics/College Physics 1.md"
+                "file": "Projects/Quayside/Untitled.md"
               }
             }
           },
@@ -198,9 +198,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Projects/Quayside",
     "BookNotes/Physics/College Physics 1.md",
+    "Projects/Quayside/Untitled.md",
     "BookNotes/Physics",
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
@@ -225,8 +227,6 @@
     "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
     "Atomic Notes/Regular Expression.md",
     "Atomic Notes/Datagrams.md",
-    "Atomic Notes/Depth First Search.md",
-    "Atomic Notes/Evaluation functions.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures",
     "Projects",
     "Research",
