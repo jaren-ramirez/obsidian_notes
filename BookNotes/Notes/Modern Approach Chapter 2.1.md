@@ -16,9 +16,10 @@ Briefly summarize the main points of the chapter here.
 
 ## 🗝 Keywords:
 
-- #flashcards **[[agent]]**::anything that can be viewed as percieving its [[environment]] through sensors and action upon that environment through [[actuators]]
+- #flashcards **[[agent]]**::anything that can be viewed as perceiving its [[environment]] through sensors and action upon that environment through [[actuators]]
 - #flashcards environment:: Definition/Explanation
-- ...
+- #flashcards rational agents::
+- #flashcards actuators::
 
 (Add keywords and their definitions or explanations)
 

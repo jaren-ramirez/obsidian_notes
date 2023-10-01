@@ -212,9 +212,11 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "actuators.md",
+    "Atomic Notes/Atomic/ComputerScience/Automata",
+    "Atomic Notes/Atomic/ComputerScience/Untitled.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
-    "environment.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
     "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
     "templates/Book Templates.md",
     "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
@@ -235,7 +237,7 @@
     "BookNotes/Untitled.md",
     "Projects/Quayside/Untitled.md",
     "Projects/Quayside",
-    "Pumping Lemma.md",
+    "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
     "Atomic Notes/Main Searches/Computer Science.md",
@@ -246,8 +248,6 @@
     "Class Lectures/Classes Table of Contents.md",
     "Class Lectures/Fall_2023/AI/Artificial Intelligence.md",
     "Class Lectures/Fall_2023/AI/ai lecture 6.md",
-    "Daily Notes and Tasks/2023-10-28.md",
-    "templates/daily_template.md",
     "Untitled.canvas"
   ]
 }
