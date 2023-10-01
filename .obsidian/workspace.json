@@ -11,22 +11,15 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "505f9cfc2cf63dca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Atomic Notes/Main Searches/AI Topics and Terms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atomic Notes/Main Searches/AI Topics and Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atomic Notes/Main Searches/AI Topics and Terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atomic Notes/Main Searches/AI Topics and Terms.md"
+              }
             }
           },
           {
@@ -201,8 +198,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "505f9cfc2cf63dca",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Atomic Notes/Atomic/Datagrams.md",
+    "Atomic Notes/Atomic",
+    "BookNotes/Untitled.md",
     "Projects/Quayside/Untitled.md",
     "Projects/Quayside",
     "Projects",
@@ -215,22 +215,19 @@
     "Atomic Notes/Main Searches/AI Topics and Terms.md",
     "Atomic Notes/Main Searches/Networks Topics and Terms.md",
     "Atomic Notes/Main Searches/Physics Topics and Terms.md",
-    "BookNotes/Untitled.md",
-    "Atomic Notes/Socket.md",
+    "Atomic Notes/Atomic/Socket.md",
     "Class Lectures/Classes Table of Contents.md",
     "Class Lectures/Fall_2023/AI/Artificial Intelligence.md",
     "Class Lectures/Fall_2023/AI/ai lecture 6.md",
     "Daily Notes and Tasks/2023-10-28.md",
     "templates/daily_template.md",
     "Daily Notes and Tasks/2023-09-24.md",
-    "Atomic Notes/Agent.md",
-    "Atomic Notes/Udp.md",
+    "Atomic Notes/Atomic/Agent.md",
+    "Atomic Notes/Atomic/Udp.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
     "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
-    "Atomic Notes/Regular Expression.md",
-    "Atomic Notes/Datagrams.md",
-    "Atomic Notes/Depth First Search.md",
-    "Atomic Notes/Evaluation functions.md",
+    "Atomic Notes/Atomic/Regular Expression.md",
+    "Atomic Notes/Atomic/Depth First Search.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures",
     "Research",
     "data/slides/Presentation-8.pdf",
@@ -238,7 +235,6 @@
     "data/slides/A401_601_SWE_Class08.pdf",
     "\"",
     "Daily Notes and Tasks/Daily Tracker/Month_2023",
-    "Daily Notes and Tasks/Daily Tracker",
     "Untitled.canvas"
   ]
 }
