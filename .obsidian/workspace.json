@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+                "file": "templates/Book Templates.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+                "file": "templates/Book Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+                "file": "templates/Book Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md"
+                "file": "templates/Book Templates.md"
               }
             }
           },
@@ -212,10 +212,10 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
     "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
-    "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms",
     "Atomic Notes/Atomic/ComputerScience/Networks",
     "Atomic Notes/Atomic/ComputerScience/AI",
