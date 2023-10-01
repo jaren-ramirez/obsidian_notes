@@ -17,9 +17,9 @@ Briefly summarize the main points of the chapter here.
 ## 🗝 Keywords:
 
 - #flashcards **[[agent]]**::anything that can be viewed as perceiving its [[environment]] through sensors and action upon that environment through [[actuators]]
-- #flashcards environment:: Definition/Explanation
-- #flashcards rational agents::an autonomous agen that makes decision to achieve the best outcome, or the most optimal actions, based on reason or intellgent
-- #flashcards actuators::
+- #flashcards [[environment]]:: Definition/Explanation
+- #flashcards [[rational agents]]::an autonomous agen that makes decision to achieve the best outcome, or the most optimal actions, based on reason or information. This can include sensors, actuators, goals, and decision making
+- #flashcards [[actuators]]::
 
 (Add keywords and their definitions or explanations)
 
