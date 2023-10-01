@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Book Templates.md",
+                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12f6c6b18eeff345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Book Templates.md",
+                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Book Templates.md",
+                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Book Templates.md"
+                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md"
               }
             }
           },
@@ -198,11 +211,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "12f6c6b18eeff345",
   "lastOpenFiles": [
+    "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "templates/Book Templates.md",
-    "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
     "BookNotes/Notes",
     "Atomic Notes/Main Searches/AI Topics and Terms.md",
     "BookNotes/Topic/AI",
