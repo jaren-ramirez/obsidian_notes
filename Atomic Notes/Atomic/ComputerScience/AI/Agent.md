@@ -27,7 +27,7 @@ related:
 #### What is an agent
 ?
 An agent is something that acts
-<!--SR:!2023-09-29,4,270-->
+<!--SR:!2023-10-12,12,270-->
 
 #flashcards 
 #### What is a rational agent
