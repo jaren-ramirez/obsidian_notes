@@ -1,4 +1,4 @@
-# Chapter 2.1: 
+# Chapter 2.1: Agents and Environments
 
 ## 📅 Date:
 

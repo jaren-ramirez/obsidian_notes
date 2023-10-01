@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+                "file": "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,22 +210,28 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "12f6c6b18eeff345",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
+    "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+    "Atomic Notes/Atomic/ComputerScience/Algorithms",
+    "Atomic Notes/Atomic/ComputerScience/Networks",
+    "Atomic Notes/Atomic/ComputerScience/AI",
+    "Atomic Notes/Atomic/ComputerScience",
+    "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
     "templates/Book Templates.md",
     "BookNotes/Notes",
     "Atomic Notes/Main Searches/AI Topics and Terms.md",
     "BookNotes/Topic/AI",
     "BookNotes/Topic",
     "BookNotes/Topic/AI/Books",
-    "Atomic Notes/Atomic/Datagrams.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
     "Atomic Notes/Atomic",
     "BookNotes/Untitled.md",
     "Projects/Quayside/Untitled.md",
     "Projects/Quayside",
-    "Projects",
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
@@ -235,20 +240,14 @@
     "Atomic Notes/Main Searches/Algorithms Topics and Terms.md",
     "Atomic Notes/Main Searches/Networks Topics and Terms.md",
     "Atomic Notes/Main Searches/Physics Topics and Terms.md",
-    "Atomic Notes/Atomic/Socket.md",
     "Class Lectures/Classes Table of Contents.md",
     "Class Lectures/Fall_2023/AI/Artificial Intelligence.md",
     "Class Lectures/Fall_2023/AI/ai lecture 6.md",
     "Daily Notes and Tasks/2023-10-28.md",
     "templates/daily_template.md",
     "Daily Notes and Tasks/2023-09-24.md",
-    "Atomic Notes/Atomic/Agent.md",
-    "Atomic Notes/Atomic/Udp.md",
-    "Class Lectures/Fall_2023/Computer Networks/Lectures/computer networks lecture 7.md",
-    "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
-    "Class Lectures/Fall_2023/Computer Networks/Lectures",
-    "Research",
-    "data/slides/Presentation-8.pdf",
+    "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Udp.md",
     "Untitled.canvas"
   ]
 }
