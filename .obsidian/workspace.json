@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,8 +210,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3086d62cb43174b9",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Programming Stuff",
     "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "Atomic Notes/Atomic/ComputerScience/Automata",
