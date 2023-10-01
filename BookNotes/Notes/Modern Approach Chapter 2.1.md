@@ -16,8 +16,8 @@ Briefly summarize the main points of the chapter here.
 
 ## 🗝 Keywords:
 
-- #flashcards **[[agent]]**: anything that can be viewed as precieving its enr through sensors and action upon that environment through [[actuators]]
-- **{{Keyword2}}**: Definition/Explanation
+- #flashcards **[[agent]]**::anything that can be viewed as percieving its [[environment]] through sensors and action upon that environment through [[actuators]]
+- #flashcards environment:: Definition/Explanation
 - ...
 
 (Add keywords and their definitions or explanations)

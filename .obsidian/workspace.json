@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "e689fb501a8080c2",
@@ -212,8 +212,10 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
+    "actuators.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+    "environment.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
     "templates/Book Templates.md",
     "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
     "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
@@ -246,8 +248,6 @@
     "Class Lectures/Fall_2023/AI/ai lecture 6.md",
     "Daily Notes and Tasks/2023-10-28.md",
     "templates/daily_template.md",
-    "Daily Notes and Tasks/2023-09-24.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Udp.md",
     "Untitled.canvas"
   ]
 }
