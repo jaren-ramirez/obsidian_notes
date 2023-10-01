@@ -33,5 +33,5 @@ An agent is something that acts
 #### What is a rational agent
 ?
 A ration agent is something that acts to achieve the best outcome
-<!--SR:!2023-09-29,4,270-->
+<!--SR:!2023-10-11,11,270-->
 

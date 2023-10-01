@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#urgent",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "3086d62cb43174b9",
   "lastOpenFiles": [
     "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
