@@ -11,15 +11,22 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "505f9cfc2cf63dca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Projects/Quayside/Untitled.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.14"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Quayside/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Quayside/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Quayside/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,12 +201,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "505f9cfc2cf63dca",
   "lastOpenFiles": [
-    "Projects/Quayside",
-    "BookNotes/Physics/College Physics 1.md",
     "Projects/Quayside/Untitled.md",
-    "BookNotes/Physics",
+    "Projects/Quayside",
+    "Projects",
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
@@ -227,8 +229,9 @@
     "Class Lectures/Fall_2023/Computer Networks/Computer Networks.md",
     "Atomic Notes/Regular Expression.md",
     "Atomic Notes/Datagrams.md",
+    "Atomic Notes/Depth First Search.md",
+    "Atomic Notes/Evaluation functions.md",
     "Class Lectures/Fall_2023/Computer Networks/Lectures",
-    "Projects",
     "Research",
     "data/slides/Presentation-8.pdf",
     "data/slides/lu50114i3etp.tmp",
