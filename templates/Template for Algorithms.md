@@ -54,3 +54,5 @@ Brief description of the algorithm.
     Reference 1 Title
     Reference 2 Title
 
+
+## Flashcard

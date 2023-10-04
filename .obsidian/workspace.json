@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "templates/Template for Coding.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "templates/Template for Coding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "templates/Template for Coding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template for Algorithms.md"
+                "file": "templates/Template for Coding.md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "templates/Template for Algorithms.md",
+    "templates/Template for Coding.md",
     "templates/Book Chapter template.md",
     "Navigation/Computer Science/AI.md",
     "Navigation/Computer Science/Computer Science.md",
@@ -210,7 +212,6 @@
     "Daily Notes and Tasks/2023-10-04.md",
     "templates/Template for Statistics.md",
     "Daily Notes and Tasks",
-    "templates/Template for Algorithms.md",
     "templates/Template for Math.md",
     "Navigation/Statistics",
     "Navigation/Programming/UI Dev",
@@ -235,7 +236,6 @@
     "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
     "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
     "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
-    "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
     "Untitled.canvas"
   ]
 }
