@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Book Chapter template.md",
+                "file": "templates/Template for Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Book Chapter template.md",
+                "file": "templates/Template for Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Book Chapter template.md",
+                "file": "templates/Template for Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Book Chapter template.md"
+                "file": "templates/Template for Algorithms.md"
               }
             }
           },
@@ -200,12 +200,12 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "templates/Book Chapter template.md",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Central Note.md",
     "templates/Template for Programming Language.md",
     "templates/Template for Coding Libraries and Functions.md",
     "templates/Template for Algorithms.md",
-    "templates/Book Chapter template.md",
     "Navigation/Computer Science/AI.md",
     "Navigation/Computer Science/Computer Science.md",
     "Daily Notes and Tasks/2023-10-03.md",
