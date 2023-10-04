@@ -126,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo Dataview.md"
+              }
             }
           },
           {
@@ -190,7 +192,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "93cb4fa64c6975cb",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
     "Projects/Quayside/Untitled.md",
     "templates/Book Templates.md",
