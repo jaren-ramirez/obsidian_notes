@@ -1,3 +1,12 @@
-## AI
+## [[AI]]
 
-## Algo
+## [[Algorithms]]
+
+## [[Automata and Language]]
+
+## [[Machine Learning]]
+
+## Machine Vision
+
+## Networks
+
