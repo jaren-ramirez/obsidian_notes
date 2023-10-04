@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "876cf0da21759d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Central Note.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Central Note.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Central Note.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo Dataview.md"
+                "file": "Central Note.md.md"
               }
             }
           },
@@ -194,6 +209,12 @@
   },
   "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Navigation/Untitled",
+    "Navigation/Computer Science",
+    "Todo Dataview.md",
+    "Central Note.md.md",
+    "Navigation",
+    "templates",
     "Projects/Quayside/Untitled.md",
     "templates/Book Templates.md",
     "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
@@ -218,18 +239,12 @@
     "Atomic Notes/Atomic/ComputerScience/Networks",
     "Atomic Notes/Atomic/ComputerScience/AI",
     "Atomic Notes/Atomic/ComputerScience/Automata",
-    "Atomic Notes/Atomic/ComputerScience/Algorithms",
     "Atomic Notes/Atomic/Inception Deck.md",
-    "Atomic Notes/Atomic/ComputerScience",
-    "Atomic Notes/Atomic",
     "BookNotes/Physics/College Physics 1.md",
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
     "Atomic Notes/Main Searches/Computer Science.md",
-    "\"/Daily.md",
-    "Atomic Notes/Main Searches/Algorithms Topics and Terms.md",
-    "Atomic Notes/Main Searches/AI Topics and Terms.md",
     "Untitled.canvas"
   ]
 }
