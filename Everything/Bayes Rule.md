@@ -1,7 +1,10 @@
 ---
 title: 
 tags: 
-related_concepts: "[[Bayes Rule]]"
+related_concepts:
+  - "[[Uncertainty]]"
+  - "[[AI]]"
+  - "[[Statistics]]"
 ---
 # Overview
 	Brief description of the concept or technique

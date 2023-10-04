@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/Bayes Rule.md",
+                "file": "Everything/Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Bayes Rule.md",
+                "file": "Everything/Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Bayes Rule.md",
+                "file": "Everything/Uncertainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Bayes Rule.md"
+                "file": "Everything/Uncertainty.md"
               }
             }
           },
@@ -200,12 +200,12 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "Everything/belief state.md",
+    "Everything/Chapter 1 Introduction AI A Modern Approach.md",
     "Everything/Bayes Rule.md",
+    "Everything/belief state.md",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Navigation/Computer Science/AI.md",
     "Chapter 12.1 Acting under Uncertainty.md",
-    "Everything/Chapter 1 Introduction AI A Modern Approach.md",
     "Everything/Uncertainty.md",
     "Navigation/Computer Science/Computer Science.md",
     "templates/Template for Algorithms.md",
