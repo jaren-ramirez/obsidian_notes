@@ -1,6 +1,7 @@
 # Table of Contents
-## [[Computer Science]]
+## Research and Studies
 
-## Daily Notes
+### [[Computer Science]]
+### [[Class Lectures]]
+### [[Reference Books]]
 
-## [[Class Lectures]]
