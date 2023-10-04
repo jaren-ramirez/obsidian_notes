@@ -5,11 +5,14 @@ tags:
 ---
 
 # Chapter Title
+
+# Key Topics
 # Summary 
 
 # Definitions
 
+# Figures
+
 # References
 
-#
 

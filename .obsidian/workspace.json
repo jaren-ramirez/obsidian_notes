@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Book Chapter template.md",
+                "file": "templates/Template for Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Book Chapter template.md",
+                "file": "templates/Template for Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Book Chapter template.md",
+                "file": "templates/Template for Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Book Chapter template.md"
+                "file": "templates/Template for Algorithms.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "templates/Book Chapter template.md",
     "Navigation/Computer Science/AI.md",
     "Navigation/Computer Science/Computer Science.md",
     "Central Note.md",
@@ -212,7 +213,6 @@
     "templates/Template for Algorithms.md",
     "templates/Template for Math.md",
     "Navigation/Statistics",
-    "templates/Book Chapter template.md",
     "Navigation/Programming/UI Dev",
     "Navigation/Programming/Web Dev",
     "Navigation/Programming/Game Dev",

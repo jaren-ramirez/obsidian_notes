@@ -11,45 +11,45 @@ Brief description of the algorithm.
 
 	Type Pseudocode Here
 
-Time Complexity
+## Time Complexity
 
 	Best Case:
     Average Case:
     Worst Case:
 
-Space Complexity
+## Space Complexity
 
     Best/Average/Worst Case:
 
-Key Concepts
+## Key Concepts
 
     Concept 1: Explanation
     Concept 2: Explanation
     ...
 
-Implementation (Optional)
+## Implementation (Optional)
 
-python
+## python
 
 [If you want, provide a sample code implementation in a language of your choice]
 
-Use Cases
+## Use Cases
 
     Use Case 1
     Use Case 2
     ...
 
-Variations (Optional)
+## Variations (Optional)
 
     Variation 1: Brief description and link to relevant note (if applicable)
     ...
 
-Related Algorithms
+## Related Algorithms
 
     Related Algorithm 1
     Related Algorithm 2
 
-References
+## References
 
     Reference 1 Title
     Reference 2 Title
