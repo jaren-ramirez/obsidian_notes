@@ -9,6 +9,8 @@ tags:
 
 # Formulas
 
+# Proof
+
 # Application
 
 # Limitations
@@ -16,4 +18,6 @@ tags:
 # Examples
 
 # Related Concepts
+
+# References
 

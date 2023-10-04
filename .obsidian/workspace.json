@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Template for Statistics.md",
+                "file": "Navigation/Computer Science/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template for Statistics.md",
+                "file": "Navigation/Computer Science/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Template for Statistics.md",
+                "file": "Navigation/Computer Science/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template for Statistics.md"
+                "file": "Navigation/Computer Science/AI.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "e689fb501a8080c2",
@@ -200,13 +200,18 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Navigation/Computer Science/Computer Science.md",
+    "Central Note.md",
+    "Daily Notes and Tasks/2023-10-03.md",
+    "Daily Notes and Tasks/2023-10-05.md",
+    "Daily Notes and Tasks/2023-10-06.md",
+    "Daily Notes and Tasks/2023-10-04.md",
+    "templates/Template for Statistics.md",
+    "Daily Notes and Tasks",
     "templates/Template for Algorithms.md",
     "templates/Template for Math.md",
-    "templates/Template for Statistics.md",
     "Navigation/Statistics",
-    "Central Note.md",
     "templates/Book Chapter template.md",
-    "Navigation/Computer Science/Computer Science.md",
     "Navigation/Programming/UI Dev",
     "Navigation/Programming/Web Dev",
     "Navigation/Programming/Game Dev",
@@ -218,7 +223,6 @@
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Navigation/Math",
     "README.md",
-    "Everything",
     "Navigation/Class Lectures/Class Lectures.md",
     "Todo Dataview.md",
     "Projects/Quayside/Untitled.md",
@@ -232,10 +236,6 @@
     "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
     "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
     "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
-    "Atomic Notes/Atomic/ComputerScience/AI/Evaluation functions.md",
-    "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
-    "Atomic Notes/Atomic/ComputerScience/Automata/Regular Expression.md",
-    "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
     "Untitled.canvas"
   ]
 }
