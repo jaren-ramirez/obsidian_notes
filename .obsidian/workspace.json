@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "Artificial Intelligence A Modern Approach 4th Edition.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "Artificial Intelligence A Modern Approach 4th Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "Artificial Intelligence A Modern Approach 4th Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md"
+                "file": "Artificial Intelligence A Modern Approach 4th Edition.md"
               }
             }
           },
@@ -209,10 +209,11 @@
   },
   "active": "876cf0da21759d1c",
   "lastOpenFiles": [
-    "Navigation/Class Lectures/Class Lectures.md",
-    "Central Note.md.md",
-    "Navigation/Class Lectures",
     "Navigation/Computer Science/Computer Science.md",
+    "Central Note.md.md",
+    "Artificial Intelligence A Modern Approach 4th Edition.md",
+    "Navigation/Class Lectures/Class Lectures.md",
+    "Navigation/Class Lectures",
     "Navigation/Computer Science",
     "Todo Dataview.md",
     "Navigation",
@@ -244,7 +245,6 @@
     "BookNotes/Physics/College Physics 1.md",
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
-    "Central Note.md",
     "Untitled.canvas"
   ]
 }
