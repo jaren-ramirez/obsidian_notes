@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12f6c6b18eeff345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
+                "file": "Projects/Quayside/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "#urgent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+                "file": "Projects/Quayside/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+                "file": "Projects/Quayside/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md"
+                "file": "Projects/Quayside/Untitled.md"
               }
             }
           },
@@ -174,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       },
       {
         "id": "e689fb501a8080c2",
@@ -212,42 +200,42 @@
   },
   "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
-    "Programming Stuff",
-    "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
-    "BookNotes/Notes/Modern Approach Chapter 2.1.md",
-    "Atomic Notes/Atomic/ComputerScience/Automata",
-    "Atomic Notes/Atomic/ComputerScience/Untitled.md",
-    "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
-    "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
     "templates/Book Templates.md",
-    "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
-    "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
-    "Atomic Notes/Atomic/ComputerScience/Algorithms",
-    "Atomic Notes/Atomic/ComputerScience/Networks",
-    "Atomic Notes/Atomic/ComputerScience/AI",
-    "Atomic Notes/Atomic/ComputerScience",
     "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
-    "BookNotes/Notes",
-    "Atomic Notes/Main Searches/AI Topics and Terms.md",
+    "BookNotes/Topic/AI/Books",
     "BookNotes/Topic/AI",
     "BookNotes/Topic",
-    "BookNotes/Topic/AI/Books",
+    "BookNotes/Notes/Modern Approach Chapter 2.1.md",
+    "BookNotes/Notes",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Udp.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Tcp.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
     "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
-    "Atomic Notes/Atomic",
-    "BookNotes/Untitled.md",
-    "Projects/Quayside/Untitled.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/Evaluation functions.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
+    "Atomic Notes/Atomic/ComputerScience/Automata/Regular Expression.md",
     "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
+    "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
+    "Atomic Notes/Atomic/ComputerScience/Algorithms/Depth First Search.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks",
+    "Atomic Notes/Atomic/ComputerScience/AI",
+    "Atomic Notes/Atomic/ComputerScience/Automata",
+    "Atomic Notes/Atomic/ComputerScience/Algorithms",
+    "Atomic Notes/Atomic/Inception Deck.md",
+    "Atomic Notes/Atomic/ComputerScience",
+    "Atomic Notes/Atomic",
+    "BookNotes/Physics/College Physics 1.md",
+    "Projects/Quayside/Untitled.md",
+    "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
     "Atomic Notes/Main Searches/Computer Science.md",
     "\"/Daily.md",
     "Atomic Notes/Main Searches/Algorithms Topics and Terms.md",
-    "Atomic Notes/Main Searches/Networks Topics and Terms.md",
-    "Atomic Notes/Main Searches/Physics Topics and Terms.md",
-    "Class Lectures/Classes Table of Contents.md",
-    "Class Lectures/Fall_2023/AI/Artificial Intelligence.md",
-    "Class Lectures/Fall_2023/AI/ai lecture 6.md",
+    "Atomic Notes/Main Searches/AI Topics and Terms.md",
     "Untitled.canvas"
   ]
 }
