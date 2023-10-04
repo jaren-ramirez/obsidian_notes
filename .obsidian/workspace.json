@@ -201,6 +201,7 @@
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
     "templates/Template for Algorithms.md",
+    "templates/Template for Math.md",
     "templates/Template for Statistics.md",
     "Navigation/Statistics",
     "Central Note.md",
@@ -235,7 +236,6 @@
     "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
     "Atomic Notes/Atomic/ComputerScience/Automata/Regular Expression.md",
     "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
-    "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
     "Untitled.canvas"
   ]
 }
