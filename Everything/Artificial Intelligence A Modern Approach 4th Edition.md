@@ -11,4 +11,5 @@ tags:
 
 # Chapter 12 Quantifying Uncertainty
 
-- [[Chapter 12]]
+- [[Chapter 12.1 Acting under Uncertainty]]
+- 

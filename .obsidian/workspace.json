@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Chapter 12.1 Acting under Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Chapter 12.1 Acting under Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Chapter 12.1 Acting under Uncertainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md"
+                "file": "Chapter 12.1 Acting under Uncertainty.md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+    "Chapter 12.1 Acting under Uncertainty.md",
     "Navigation/Computer Science/AI.md",
     "Everything/Bayes Rule.md",
     "Navigation/Statistics/Statistics.md",
@@ -212,7 +214,6 @@
     "Central Note.md",
     "Navigation/Statistics",
     "Navigation/Math",
-    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "Navigation/Class Lectures/Class Lectures.md",
     "Navigation/Computer Science",
@@ -235,7 +236,6 @@
     "Atomic Notes/Main Searches/AI Topics and Terms.md",
     "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
     "BookNotes/Untitled.md",
-    "Projects/Quayside/Untitled.md",
     "Untitled.canvas"
   ]
 }
