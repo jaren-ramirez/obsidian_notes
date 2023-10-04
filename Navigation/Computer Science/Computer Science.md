@@ -1,4 +1,6 @@
 ## [[AI]]
+### Related Books
+	### [[Artificial Intelligence A Modern Approach 4th Edition]]
 
 ## [[Algorithms]]
 
@@ -6,7 +8,7 @@
 
 ## [[Machine Learning]]
 
-## Machine Vision
+## [[Machine Vision]]
 
 ## Networks
 
