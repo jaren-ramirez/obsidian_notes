@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "templates/Template for Statistics.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "templates/Template for Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "templates/Template for Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template for Algorithms.md"
+                "file": "templates/Template for Statistics.md"
               }
             }
           },
@@ -198,11 +198,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "templates/Template for Algorithms.md",
+    "templates/Template for Statistics.md",
     "Navigation/Statistics",
     "Central Note.md",
-    "templates/Template for Algorithms.md",
     "templates/Book Chapter template.md",
     "Navigation/Computer Science/Computer Science.md",
     "Navigation/Programming/UI Dev",
@@ -218,7 +219,6 @@
     "README.md",
     "Everything",
     "Navigation/Class Lectures/Class Lectures.md",
-    "Navigation/Class Lectures",
     "Todo Dataview.md",
     "Projects/Quayside/Untitled.md",
     "templates/Book Templates.md",
