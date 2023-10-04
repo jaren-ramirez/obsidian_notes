@@ -5,4 +5,5 @@ tags:
 ---
 
 # Chapter 1
-## [[Book Chapter template]]
+
+[[]]

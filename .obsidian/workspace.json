@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Template for Programming Language.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template for Programming Language.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Template for Programming Language.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template for Programming Language.md"
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md"
               }
             }
           },
@@ -200,13 +200,13 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "templates/Template for Coding Libraries and Functions.md",
+    "Central Note.md",
     "templates/Template for Programming Language.md",
+    "templates/Template for Coding Libraries and Functions.md",
     "templates/Template for Algorithms.md",
     "templates/Book Chapter template.md",
     "Navigation/Computer Science/AI.md",
     "Navigation/Computer Science/Computer Science.md",
-    "Central Note.md",
     "Daily Notes and Tasks/2023-10-03.md",
     "Daily Notes and Tasks/2023-10-05.md",
     "Daily Notes and Tasks/2023-10-06.md",
