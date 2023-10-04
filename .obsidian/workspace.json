@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Note.md.md",
+                "file": "Navigation/Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Note.md.md",
+                "file": "Navigation/Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Note.md.md",
+                "file": "Navigation/Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Note.md.md"
+                "file": "Navigation/Computer Science/Computer Science.md"
               }
             }
           },
@@ -207,11 +207,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "876cf0da21759d1c",
   "lastOpenFiles": [
-    "Navigation/Computer Science/Computer Science.md",
+    "Navigation/Class Lectures/Class Lectures.md",
     "Central Note.md.md",
-    "Navigation/Untitled",
+    "Navigation/Class Lectures",
+    "Navigation/Computer Science/Computer Science.md",
     "Navigation/Computer Science",
     "Todo Dataview.md",
     "Navigation",
@@ -244,7 +245,6 @@
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
-    "Atomic Notes/Main Searches/Computer Science.md",
     "Untitled.canvas"
   ]
 }
