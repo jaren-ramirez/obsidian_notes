@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch.md",
+                "file": "Navigation/Computer Science/AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch.md",
+                "file": "Navigation/Computer Science/AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch.md",
+                "file": "Navigation/Computer Science/AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch.md"
+                "file": "Navigation/Computer Science/AI.md"
               }
             }
           },
@@ -209,9 +209,11 @@
   },
   "active": "876cf0da21759d1c",
   "lastOpenFiles": [
-    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
-    "ch.md",
     "Navigation/Computer Science/Computer Science.md",
+    "Navigation/Computer Science/AI.md",
+    "templates/Book Chapter template.md",
+    "Navigation/Math",
+    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Central Note.md",
     "README.md",
     "Everything",
@@ -242,9 +244,7 @@
     "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Depth First Search.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks",
     "Atomic Notes/Atomic/Inception Deck.md",
-    "BookNotes/Physics/College Physics 1.md",
     "Untitled.canvas"
   ]
 }
