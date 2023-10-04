@@ -11,8 +11,12 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Template for Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Template for Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Template for Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Template for Algorithms.md"
+              }
             }
           },
           {
@@ -192,8 +200,10 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "Navigation/Computer Science/Computer Science.md",
     "Central Note.md",
+    "templates/Template for Algorithms.md",
+    "templates/Book Chapter template.md",
+    "Navigation/Computer Science/Computer Science.md",
     "Navigation/Programming/UI Dev",
     "Navigation/Programming/Web Dev",
     "Navigation/Programming/Game Dev",
@@ -203,7 +213,6 @@
     "Navigation/Physics",
     "Navigation/Computer Science/AI.md",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
-    "templates/Book Chapter template.md",
     "Navigation/Math",
     "README.md",
     "Everything",
