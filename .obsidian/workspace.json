@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 12.1 Acting under Uncertainty.md",
+                "file": "Everything/belief state.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 12.1 Acting under Uncertainty.md",
+                "file": "Everything/belief state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 12.1 Acting under Uncertainty.md",
+                "file": "Everything/belief state.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 12.1 Acting under Uncertainty.md"
+                "file": "Everything/belief state.md"
               }
             }
           },
@@ -200,14 +200,17 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Chapter 12.1 Acting under Uncertainty.md",
+    "Everything/belief state.md",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Navigation/Computer Science/AI.md",
+    "Everything/Chapter 1 Introduction AI A Modern Approach.md",
+    "Everything/Bayes Rule.md",
+    "Everything/Uncertainty.md",
     "Navigation/Computer Science/Computer Science.md",
     "templates/Template for Algorithms.md",
     "conflict-files-obsidian-git.md",
     "Navigation/Statistics/Statistics.md",
-    "Everything/Bayes Rule.md",
-    "Chapter 12.1 Acting under Uncertainty.md",
     "templates/Book Chapter template.md",
     "Central Note.md",
     "templates/Template for Programming Language.md",
@@ -233,9 +236,6 @@
     "Todo Dataview.md",
     "Projects/Quayside/Untitled.md",
     "templates/Book Templates.md",
-    "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
-    "BookNotes/Notes/Modern Approach Chapter 2.1.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Udp.md",
     "Untitled.canvas"
   ]
 }
