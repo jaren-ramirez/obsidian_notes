@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Computer Science/AI.md",
+                "file": "templates/Book Chapter template.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Computer Science/AI.md",
+                "file": "templates/Book Chapter template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Computer Science/AI.md",
+                "file": "templates/Book Chapter template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Computer Science/AI.md"
+                "file": "templates/Book Chapter template.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Navigation/Computer Science/AI.md",
     "Navigation/Computer Science/Computer Science.md",
     "Central Note.md",
     "Daily Notes and Tasks/2023-10-03.md",
@@ -219,7 +220,6 @@
     "Navigation/Programming/C++",
     "Navigation/Programming",
     "Navigation/Physics",
-    "Navigation/Computer Science/AI.md",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Navigation/Math",
     "README.md",
