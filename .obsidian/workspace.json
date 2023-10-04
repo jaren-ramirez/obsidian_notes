@@ -198,8 +198,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Navigation/Statistics",
     "Central Note.md",
     "templates/Template for Algorithms.md",
     "templates/Book Chapter template.md",
@@ -235,7 +236,6 @@
     "Atomic Notes/Atomic/ComputerScience/Automata/Regular Expression.md",
     "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
-    "Atomic Notes/Atomic/ComputerScience/Algorithms/Depth First Search.md",
     "Untitled.canvas"
   ]
 }

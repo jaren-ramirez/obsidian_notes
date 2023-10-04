@@ -9,7 +9,7 @@ Brief description of the algorithm.
 
 ## Pseudocode
 
-	Type Pseudocode 
+	Type Pseudocode Here
 
 Time Complexity
 
