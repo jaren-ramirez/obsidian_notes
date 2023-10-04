@@ -9,9 +9,12 @@ tags:
 Edition: 4th
 ---
 
-# Chapter Title
+# Acting Under Uncertainty
 
 # Key Topics
+- [[Uncertainty]]
+	- Agents in the real world need to handle uncertainty.
+	- An agent may not know what state it is in or what state it wil
 # Summary 
 
 # Definitions
