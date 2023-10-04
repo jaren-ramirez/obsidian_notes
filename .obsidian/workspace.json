@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "templates/Book Chapter template.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "templates/Book Chapter template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "templates/Book Chapter template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md"
+                "file": "templates/Book Chapter template.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "e689fb501a8080c2",
@@ -200,6 +200,7 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Central Note.md",
     "templates/Template for Programming Language.md",
     "templates/Template for Coding Libraries and Functions.md",
@@ -222,7 +223,6 @@
     "Navigation/Programming/C++",
     "Navigation/Programming",
     "Navigation/Physics",
-    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Navigation/Math",
     "README.md",
     "Navigation/Class Lectures/Class Lectures.md",
