@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Navigation/Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Navigation/Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Navigation/Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md"
+                "file": "Navigation/Computer Science/Computer Science.md"
               }
             }
           },
@@ -207,12 +207,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "876cf0da21759d1c",
   "lastOpenFiles": [
-    "Everything",
-    "Navigation/Computer Science/Computer Science.md",
-    "Central Note.md.md",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+    "README.md",
+    "Central Note.md",
+    "Navigation/Computer Science/Computer Science.md",
+    "Everything",
     "Navigation/Class Lectures/Class Lectures.md",
     "Navigation/Class Lectures",
     "Navigation/Computer Science",
@@ -241,7 +242,6 @@
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Depth First Search.md",
     "Atomic Notes/Atomic/ComputerScience/Networks",
-    "Atomic Notes/Atomic/ComputerScience/AI",
     "Atomic Notes/Atomic/Inception Deck.md",
     "BookNotes/Physics/College Physics 1.md",
     "Pumping Lemma.md",
