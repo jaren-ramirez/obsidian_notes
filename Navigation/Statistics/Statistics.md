@@ -1,5 +1,5 @@
 # Concepts
-## [[Bayes Rule]]
+### [[Bayes Rule]]
 
 # Curves are Fun
 

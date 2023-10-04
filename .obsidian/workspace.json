@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md"
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md"
               }
             }
           },
@@ -200,15 +200,20 @@
   },
   "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
-    "Navigation/Statistics/Statistics.md",
-    "Central Note.md",
+    "Navigation/Computer Science/AI.md",
     "Everything/Bayes Rule.md",
+    "Navigation/Statistics/Statistics.md",
+    "templates/Template for Statistics.md",
+    "templates/Book Chapter template.md",
+    "templates/Template for Algorithms.md",
+    "templates/Template for Coding Libraries and Functions.md",
+    "templates/Template for Math.md",
     "Navigation/Computer Science/Computer Science.md",
+    "Central Note.md",
     "Navigation/Statistics",
     "Navigation/Math",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
-    "Navigation/Computer Science/AI.md",
     "Navigation/Class Lectures/Class Lectures.md",
     "Navigation/Computer Science",
     "Navigation/Class Lectures",
@@ -231,11 +236,6 @@
     "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
     "BookNotes/Untitled.md",
     "Projects/Quayside/Untitled.md",
-    "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
-    "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
-    "Atomic Notes/Main Searches/Computer Science.md",
-    "\"/Daily.md",
-    "Atomic Notes/Main Searches/Algorithms Topics and Terms.md",
     "Untitled.canvas"
   ]
 }

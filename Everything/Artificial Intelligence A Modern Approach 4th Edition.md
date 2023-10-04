@@ -11,3 +11,4 @@ tags:
 
 # Chapter 12 Quantifying Uncertainty
 
+- [[Chapter 12]]
