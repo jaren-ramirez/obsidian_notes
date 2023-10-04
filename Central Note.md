@@ -8,4 +8,6 @@
 ### Physics
 ### [[Class Lectures]]
 
+[[Statistics]]
+
 
