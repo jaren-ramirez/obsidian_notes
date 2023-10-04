@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d59ed60bbeb2974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Template for Algorithms.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -198,14 +211,18 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "5d59ed60bbeb2974",
   "lastOpenFiles": [
+    "templates/Template for Algorithms.md",
+    "conflict-files-obsidian-git.md",
+    "Navigation/Statistics/Statistics.md",
+    "Everything/Bayes Rule.md",
+    "Chapter 12.1 Acting under Uncertainty.md",
     "templates/Book Chapter template.md",
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Central Note.md",
     "templates/Template for Programming Language.md",
     "templates/Template for Coding Libraries and Functions.md",
-    "templates/Template for Algorithms.md",
     "Navigation/Computer Science/AI.md",
     "Navigation/Computer Science/Computer Science.md",
     "Daily Notes and Tasks/2023-10-03.md",
@@ -232,10 +249,6 @@
     "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "Atomic Notes/Atomic/ComputerScience/Networks/Udp.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Tcp.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
-    "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
     "Untitled.canvas"
   ]
 }
