@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence A Modern Approach 4th Edition.md",
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence A Modern Approach 4th Edition.md"
+                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md"
               }
             }
           },
@@ -207,11 +207,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "876cf0da21759d1c",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Everything",
     "Navigation/Computer Science/Computer Science.md",
     "Central Note.md.md",
-    "Artificial Intelligence A Modern Approach 4th Edition.md",
+    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Navigation/Class Lectures/Class Lectures.md",
     "Navigation/Class Lectures",
     "Navigation/Computer Science",
@@ -244,7 +245,6 @@
     "Atomic Notes/Atomic/Inception Deck.md",
     "BookNotes/Physics/College Physics 1.md",
     "Pumping Lemma.md",
-    "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Untitled.canvas"
   ]
 }
