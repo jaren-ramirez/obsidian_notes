@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Computer Science/AI.md",
+                "file": "Central Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Computer Science/AI.md",
+                "file": "Central Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Computer Science/AI.md",
+                "file": "Central Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Computer Science/AI.md"
+                "file": "Central Note.md"
               }
             }
           },
@@ -207,13 +207,17 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "876cf0da21759d1c",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
+    "Navigation/Programming/Untitled",
+    "Navigation/Programming/C++",
+    "Navigation/Programming",
+    "Navigation/Physics",
     "Navigation/Computer Science/Computer Science.md",
     "Navigation/Computer Science/AI.md",
+    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "templates/Book Chapter template.md",
     "Navigation/Math",
-    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Central Note.md",
     "README.md",
     "Everything",
@@ -227,10 +231,7 @@
     "templates/Book Templates.md",
     "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
     "BookNotes/Topic/AI/Books",
-    "BookNotes/Topic/AI",
-    "BookNotes/Topic",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
-    "BookNotes/Notes",
     "Atomic Notes/Atomic/ComputerScience/Networks/Udp.md",
     "Atomic Notes/Atomic/ComputerScience/Networks/Tcp.md",
     "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
@@ -244,7 +245,6 @@
     "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
     "Atomic Notes/Atomic/ComputerScience/Algorithms/Depth First Search.md",
-    "Atomic Notes/Atomic/Inception Deck.md",
     "Untitled.canvas"
   ]
 }

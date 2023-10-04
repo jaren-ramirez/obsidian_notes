@@ -2,6 +2,10 @@
 ## Research and Studies
 
 ### [[Computer Science]]
+
+### Math
+
+### Physics
 ### [[Class Lectures]]
-### [[Reference Books]]
+
 
