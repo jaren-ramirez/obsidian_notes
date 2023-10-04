@@ -126,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,8 +190,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "Navigation/Computer Science/Computer Science.md",
     "Navigation/Computer Science/AI.md",
     "Navigation/Class Lectures/Class Lectures.md",
@@ -204,7 +203,6 @@
     "Everything",
     "Programming Stuff",
     "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
-    "BookNotes/Notes/Modern Approach Chapter 2.1.md",
     "Atomic Notes/Atomic/ComputerScience/Automata",
     "Atomic Notes/Atomic/ComputerScience/Untitled.md",
     "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
