@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "AI A Modern Approach Chpt 1.1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "AI A Modern Approach Chpt 1.1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md",
+                "file": "AI A Modern Approach Chpt 1.1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/Computer Science/Computer Science.md"
+                "file": "AI A Modern Approach Chpt 1.1 Notes.md"
               }
             }
           },
@@ -210,9 +210,10 @@
   "active": "876cf0da21759d1c",
   "lastOpenFiles": [
     "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
-    "README.md",
-    "Central Note.md",
+    "AI A Modern Approach Chpt 1.1 Notes.md",
     "Navigation/Computer Science/Computer Science.md",
+    "Central Note.md",
+    "README.md",
     "Everything",
     "Navigation/Class Lectures/Class Lectures.md",
     "Navigation/Class Lectures",
@@ -244,7 +245,6 @@
     "Atomic Notes/Atomic/ComputerScience/Networks",
     "Atomic Notes/Atomic/Inception Deck.md",
     "BookNotes/Physics/College Physics 1.md",
-    "Pumping Lemma.md",
     "Untitled.canvas"
   ]
 }
