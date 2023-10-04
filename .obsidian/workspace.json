@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Template for Algorithms.md",
+                "file": "Chapter 12.1 Acting under Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 12.1 Acting under Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 12.1 Acting under Uncertainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Chapter 12.1 Acting under Uncertainty.md"
               }
             }
           },
@@ -196,20 +198,20 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "93cb4fa64c6975cb",
+  "active": "968eaca06fcc9d6c",
   "lastOpenFiles": [
+    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+    "Navigation/Computer Science/AI.md",
+    "Navigation/Computer Science/Computer Science.md",
     "templates/Template for Algorithms.md",
     "conflict-files-obsidian-git.md",
     "Navigation/Statistics/Statistics.md",
     "Everything/Bayes Rule.md",
     "Chapter 12.1 Acting under Uncertainty.md",
     "templates/Book Chapter template.md",
-    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
     "Central Note.md",
     "templates/Template for Programming Language.md",
     "templates/Template for Coding Libraries and Functions.md",
-    "Navigation/Computer Science/AI.md",
-    "Navigation/Computer Science/Computer Science.md",
     "Daily Notes and Tasks/2023-10-03.md",
     "Daily Notes and Tasks/2023-10-05.md",
     "Daily Notes and Tasks/2023-10-06.md",
