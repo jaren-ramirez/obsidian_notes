@@ -11,12 +11,8 @@
             "id": "968eaca06fcc9d6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#urgent",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Everything/Artificial Intelligence A Modern Approach 4th Edition.md"
+                "file": "BookNotes/Notes/Modern Approach Chapter 2.1.md"
               }
             }
           },
@@ -162,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e689fb501a8080c2",
@@ -198,44 +192,44 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "968eaca06fcc9d6c",
+  "active": "ebb0b35ee07919a4",
   "lastOpenFiles": [
-    "Central Note.md",
-    "templates/Template for Programming Language.md",
-    "templates/Template for Coding Libraries and Functions.md",
-    "templates/Template for Algorithms.md",
-    "templates/Book Chapter template.md",
-    "Navigation/Computer Science/AI.md",
     "Navigation/Computer Science/Computer Science.md",
-    "Daily Notes and Tasks/2023-10-03.md",
-    "Daily Notes and Tasks/2023-10-05.md",
-    "Daily Notes and Tasks/2023-10-06.md",
-    "Daily Notes and Tasks/2023-10-04.md",
-    "templates/Template for Statistics.md",
-    "Daily Notes and Tasks",
-    "templates/Template for Math.md",
-    "Navigation/Statistics",
-    "Navigation/Programming/UI Dev",
-    "Navigation/Programming/Web Dev",
-    "Navigation/Programming/Game Dev",
-    "Navigation/Programming/Python",
-    "Navigation/Programming/C++",
-    "Navigation/Programming",
-    "Navigation/Physics",
-    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
-    "Navigation/Math",
-    "README.md",
+    "Navigation/Computer Science/AI.md",
     "Navigation/Class Lectures/Class Lectures.md",
-    "Todo Dataview.md",
-    "Projects/Quayside/Untitled.md",
-    "templates/Book Templates.md",
-    "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
+    "Navigation/Computer Science",
+    "Navigation/Class Lectures",
+    "Navigation",
+    "Everything/Artificial Intelligence A Modern Approach 4th Edition.md",
+    "Everything",
+    "Programming Stuff",
+    "Atomic Notes/Atomic/ComputerScience/AI/actuators.md",
     "BookNotes/Notes/Modern Approach Chapter 2.1.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Udp.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Tcp.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
-    "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
+    "Atomic Notes/Atomic/ComputerScience/Automata",
+    "Atomic Notes/Atomic/ComputerScience/Untitled.md",
     "Atomic Notes/Atomic/ComputerScience/AI/environment.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/Agent.md",
+    "templates/Book Templates.md",
+    "Atomic Notes/Atomic/ComputerScience/AI/Simulation.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Socket.md",
+    "Atomic Notes/Atomic/ComputerScience/Algorithms/Monte Carlo Tree Search.md",
+    "Atomic Notes/Atomic/ComputerScience/Algorithms",
+    "Atomic Notes/Atomic/ComputerScience/Networks",
+    "Atomic Notes/Atomic/ComputerScience/AI",
+    "Atomic Notes/Atomic/ComputerScience",
+    "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
+    "Atomic Notes/Main Searches/AI Topics and Terms.md",
+    "Atomic Notes/Atomic/ComputerScience/Networks/Datagrams.md",
+    "BookNotes/Untitled.md",
+    "Projects/Quayside/Untitled.md",
+    "Atomic Notes/Atomic/ComputerScience/Automata/Pumping Lemma.md",
+    "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
+    "Central Note.md",
+    "Atomic Notes/Main Searches/Computer Science.md",
+    "\"/Daily.md",
+    "Atomic Notes/Main Searches/Algorithms Topics and Terms.md",
+    "Atomic Notes/Main Searches/Networks Topics and Terms.md",
+    "Atomic Notes/Main Searches/Physics Topics and Terms.md",
     "Untitled.canvas"
   ]
 }
