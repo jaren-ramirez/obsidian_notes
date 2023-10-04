@@ -126,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Quayside/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,8 +190,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ebb0b35ee07919a4",
+  "active": "93cb4fa64c6975cb",
   "lastOpenFiles": [
+    "Projects/Quayside/Untitled.md",
     "templates/Book Templates.md",
     "BookNotes/Topic/AI/Books/Artificial Intelligence A Modern Approach.md",
     "BookNotes/Topic/AI/Books",
@@ -222,7 +221,6 @@
     "Atomic Notes/Atomic/ComputerScience",
     "Atomic Notes/Atomic",
     "BookNotes/Physics/College Physics 1.md",
-    "Projects/Quayside/Untitled.md",
     "Pumping Lemma.md",
     "Class Lectures/Fall_2023/Automata/automata lecture 7.md",
     "Central Note.md",
