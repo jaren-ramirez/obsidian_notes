@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Dark Moss",
   "enabledCssSnippets": [
     "override"
-  ]
+  ],
+  "theme": "obsidian"
 }
